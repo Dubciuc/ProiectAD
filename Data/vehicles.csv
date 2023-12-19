@@ -1,0 +1,926 @@
+﻿id;region;price;year;manufacturer;model;condition;cylinders;fuel;odometer;transmission;type;paint_color
+7316814884;auburn;33590;2014;gmc;sierra 1500 crew cab slt;good;8 cylinders;gas;57923;other;pickup;white
+7316814758;auburn;22590;2010;chevrolet;silverado 1500;good;8 cylinders;gas;71229;other;pickup;blue
+7316814989;auburn;39590;2020;chevrolet;silverado 1500 crew;good;8 cylinders;gas;19160;other;pickup;red
+7316743432;auburn;30990;2017;toyota;tundra double cab sr;good;8 cylinders;gas;41124;other;pickup;red
+7316356412;auburn;15000;2013;ford;f-150 xlt;excellent;6 cylinders;gas;128000;automatic;truck;black
+7316343444;auburn;27990;2012;gmc;sierra 2500 hd extended cab;good;8 cylinders;gas;68696;other;pickup;black
+7316304717;auburn;34590;2016;chevrolet;silverado 1500 double;good;6 cylinders;gas;29499;other;pickup;silver
+7316285779;auburn;35000;2019;toyota;tacoma;excellent;6 cylinders;gas;43000;automatic;truck;grey
+7316257769;auburn;29990;2016;chevrolet;colorado extended cab;good;6 cylinders;gas;17302;other;pickup;red
+7316133914;auburn;38590;2011;chevrolet;corvette grand sport;good;8 cylinders;gas;30237;other;other;red
+7315816316;auburn;32990;2017;jeep;wrangler unlimited sport;good;6 cylinders;gas;30041;other;other;silver
+7315770394;auburn;24590;2017;chevrolet;silverado 1500 regular;good;6 cylinders;gas;40784;other;pickup;white
+7315756348;auburn;30990;2016;chevrolet;colorado crew cab z71;good;6 cylinders;other;34940;other;pickup;blue
+7315715960;auburn;27990;2014;toyota;tacoma access cab pickup;good;6 cylinders;other;17805;other;pickup;red
+7315379459;auburn;37990;2016;chevrolet;camaro ss coupe 2d;good;8 cylinders;gas;9704;other;coupe;red
+7315275975;auburn;33590;2014;toyota;tundra crewmax sr5 pickup;good;6 cylinders;other;55251;other;pickup;red
+7315275942;auburn;30990;2019;ford;ranger supercrew xl pickup;good;6 cylinders;other;1834;other;pickup;black
+7315270785;auburn;27990;2018;nissan;frontier crew cab pro-4x;good;6 cylinders;gas;37332;other;pickup;silver
+7314910156;auburn;34590;2018;ford;f150 super cab xl pickup 4d;good;6 cylinders;gas;20856;other;pickup;white
+7314854462;auburn;30590;2016;toyota;tacoma double cab sr5;good;6 cylinders;other;30176;other;pickup;red
+7314811916;auburn;32990;2020;jeep;wrangler sport suv 2d;good;6 cylinders;gas;20581;other;SUV;silver
+7314811909;auburn;38990;2020;ford;f150 supercrew cab xlt;good;6 cylinders;gas;12231;other;pickup;black
+7314584296;auburn;22590;2017;ram;1500 regular cab tradesman;good;8 cylinders;gas;39508;other;pickup;white
+7314584315;auburn;31590;2020;mazda;mx-5 miata club;good;6 cylinders;gas;2195;other;other;black
+7314584322;auburn;27990;2020;ford;ranger supercab xl pickup;good;6 cylinders;gas;10688;other;pickup;white
+7314584291;auburn;31590;2019;cadillac;xt4 sport suv 4d;good;6 cylinders;other;12102;other;hatchback;black
+7314560853;auburn;19900;2004;ford;f250 super duty;good;8 cylinders;diesel;88000;automatic;pickup;blue
+7313857831;auburn;16590;2016;jeep;renegade sport suv 4d;good;6 cylinders;gas;35835;other;other;red
+7313857767;auburn;26990;2016;ford;f150 regular cab xl pickup;good;6 cylinders;gas;14230;other;pickup;black
+7313857701;auburn;25590;2015;gmc;sierra 1500 regular cab;good;6 cylinders;other;35290;other;pickup;white
+7313406529;auburn;14000;2012;honda;odyssey;excellent;6 cylinders;gas;95000;automatic;mini-van;silver
+7313387888;auburn;28590;2018;ram;1500 quad cab express pickup;good;6 cylinders;other;30047;other;pickup;white
+7313387902;auburn;24590;2013;gmc;sierra 1500 extended cab slt;good;8 cylinders;other;80318;other;pickup;black
+7313337060;auburn;25990;2019;ram;1500 classic regular cab;good;8 cylinders;gas;12302;other;pickup;white
+7313319521;auburn;34990;2018;ford;mustang gt premium;good;8 cylinders;gas;18650;other;other;black
+7312858079;auburn;27990;2017;chevrolet;colorado extended cab;good;6 cylinders;gas;22120;other;pickup;black
+7312847466;auburn;22500;2001;ford;f450;good;8 cylinders;diesel;144700;manual;truck;white
+7312824400;auburn;32990;2019;chevrolet;silverado 1500 ld;good;6 cylinders;other;6897;other;pickup;black
+7312799035;auburn;31990;2013;toyota;tundra double cab pickup;good;8 cylinders;gas;55068;other;pickup;black
+7312754093;auburn;29990;2014;chevrolet;silverado 1500 double;good;8 cylinders;gas;26129;other;pickup;black
+7312342653;auburn;23990;2016;chevrolet;silverado 1500 regular;good;6 cylinders;gas;41568;other;pickup;white
+7312342811;auburn;22990;2012;toyota;tacoma access cab pickup;good;6 cylinders;gas;37725;other;pickup;white
+7312337810;auburn;26990;2014;chevrolet;silverado 1500 crew;good;6 cylinders;gas;63129;automatic;pickup;black
+7312313815;auburn;33990;2017;jeep;wrangler unlimited sahara;good;6 cylinders;other;34152;other;SUV;white
+7312144944;auburn;15000;2017;dodge;charger rt 4dr sedan;excellent;8 cylinders;gas;90000;automatic;sedan;grey
+7311960895;auburn;26590;2020;honda;civic si coupe 2d;good;6 cylinders;gas;9954;other;coupe;silver
+7311818339;auburn;18590;2018;honda;civic lx sedan 4d;good;6 cylinders;gas;28942;other;sedan;white
+7311818189;auburn;29590;2017;ford;expedition xlt sport;good;6 cylinders;gas;70760;other;SUV;blue
+7311818157;auburn;21590;2018;honda;civic ex sedan 4d;good;6 cylinders;gas;7885;other;sedan;black
+7311409434;auburn;22590;2013;ford;f150 super cab xl pickup 4d;good;6 cylinders;other;14169;other;pickup;silver
+7311351407;auburn;33990;2020;jeep;wrangler sport suv 2d;good;6 cylinders;gas;9859;other;other;black
+7311327726;auburn;29990;2012;toyota;tacoma double cab pickup;good;6 cylinders;gas;43182;other;pickup;white
+7311310782;auburn;37590;2019;ford;f150 supercrew cab xl;good;6 cylinders;gas;8663;other;pickup;black
+7310905283;auburn;25990;2015;lexus;nx 300h sport utility 4d;good;6 cylinders;other;55783;other;hatchback;white
+7310848060;auburn;32990;2018;jaguar;e-pace p250 s sport;good;6 cylinders;other;26685;other;other;white
+7310803539;auburn;28990;2020;buick;encore gx essence sport;good;6 cylinders;gas;21;other;other;white
+7310798664;auburn;34990;2020;lexus;nx 300 sport utility 4d;good;6 cylinders;gas;1722;other;hatchback;black
+7310644616;auburn;3000;2004;chrysler;town & country;good;6 cylinders;gas;176144;automatic;mini-van;silver
+7310383361;auburn;22590;2016;volvo;s60 t5 cross country;good;6 cylinders;gas;42755;other;sedan;black
+7310332383;auburn;36990;2019;volvo;s60 t6 inscription sedan;good;6 cylinders;gas;8141;other;sedan;white
+7310308166;auburn;31990;2020;volvo;s60 t5 momentum sedan 4d;good;6 cylinders;gas;16594;other;sedan;black
+7310276274;auburn;28590;2019;volvo;s60 t5 momentum sedan 4d;good;6 cylinders;gas;18531;other;sedan;black
+7309876037;auburn;31990;2018;audi;q5 premium sport utility 4d;good;6 cylinders;gas;19179;other;other;blue
+7309828117;auburn;19990;2015;infiniti;qx60 3.5 sport utility;good;6 cylinders;other;96003;other;SUV;silver
+7309827921;auburn;29590;2017;lincoln;continental select sedan;good;6 cylinders;gas;35320;other;sedan;black
+7309828053;auburn;29990;2018;alfa-romeo;romeo stelvio ti sport;good;6 cylinders;other;26978;other;hatchback;silver
+7309798041;auburn;2100;2006;subaru;impreza;fair;4 cylinders;gas;97000;automatic;hatchback;white
+7309271051;auburn;20590;2013;acura;mdx sport utility 4d;good;6 cylinders;gas;77087;other;other;silver
+7309229548;auburn;29590;2018;audi;a6 2.0t premium sedan 4d;good;6 cylinders;gas;13035;other;sedan;blue
+7309192232;auburn;16590;2015;hyundai;sonata sport sedan 4d;good;6 cylinders;gas;26655;other;sedan;white
+7308779719;auburn;33990;2017;ram;1500 crew cab tradesman;good;8 cylinders;gas;17033;other;pickup;blue
+7308779686;auburn;36590;2019;gmc;sierra 1500 limited double;good;8 cylinders;gas;14222;other;pickup;blue
+7308745779;auburn;29590;2013;gmc;sierra 1500 extended cab slt;good;8 cylinders;gas;37888;other;pickup;silver
+7308730136;auburn;40590;2019;ford;f250 super duty regular cab;good;8 cylinders;other;9313;other;pickup;white
+7308365829;auburn;33990;2018;jeep;wrangler unlimited willys;good;6 cylinders;gas;34636;other;other;white
+7308255063;auburn;43990;2019;jeep;wrangler unlimited sahara;good;6 cylinders;gas;4362;other;SUV;black
+7308217002;auburn;38990;2017;jeep;wrangler unlimited rubicon;good;6 cylinders;gas;20676;other;other;red
+7308216849;auburn;39590;2018;jeep;wrangler unlimited all new;good;6 cylinders;gas;21893;other;SUV;silver
+7307730503;auburn;9500;2003;chrysler;town & country;excellent;6 cylinders;gas;30376;automatic;mini-van;blue
+7307218858;auburn;28590;2018;gmc;acadia sle-2 sport utility;good;6 cylinders;gas;20736;other;SUV;white
+7307164168;auburn;16590;2013;lincoln;mkz sedan 4d;good;6 cylinders;gas;61087;other;sedan;red
+7307164193;auburn;28990;2017;gmc;acadia slt-1 sport utility;good;6 cylinders;gas;18041;other;SUV;white
+7307142186;auburn;20590;2017;lincoln;mkz premiere sedan 4d;good;6 cylinders;gas;36436;other;sedan;white
+7306701617;auburn;26990;2015;lexus;nx 200t sport utility 4d;good;6 cylinders;gas;29738;other;hatchback;red
+7306676175;auburn;26990;2016;lexus;nx 200t sport utility 4d;good;6 cylinders;gas;31363;other;hatchback;white
+7306676124;auburn;22590;2020;buick;encore gx select sport;good;6 cylinders;other;5144;other;SUV;red
+7306625443;auburn;35990;2018;jaguar;e-pace p250 se sport;good;6 cylinders;gas;8490;other;other;black
+7306407989;auburn;17500;2008;toyota;fj cruiser;good;6 cylinders;gas;201300;manual;offroad;black
+7306259907;auburn;6000;2007;mercedes-benz;e320 cdi;good;6 cylinders;diesel;124000;automatic;sedan;blue
+7306238443;auburn;25990;2018;volvo;s60 t5 inscription sedan;good;6 cylinders;diesel;22834;other;sedan;white
+7306178510;auburn;36590;2019;volvo;s60 t6 r-design sedan 4d;good;6 cylinders;gas;7618;other;sedan;white
+7306147932;auburn;35990;2019;volvo;s60 t6 r-design sedan 4d;good;6 cylinders;other;15567;other;sedan;red
+7306095627;auburn;33590;2019;volvo;s60 t6 r-design sedan 4d;good;6 cylinders;gas;10742;other;sedan;silver
+7305666455;auburn;38990;2020;infiniti;qx60 luxe sport utility;good;6 cylinders;gas;5279;other;other;black
+7305631654;auburn;33990;2018;alfa-romeo;romeo stelvio ti sport suv;good;6 cylinders;gas;23753;other;hatchback;silver
+7305631581;auburn;27990;2017;lincoln;continental select sedan;good;6 cylinders;gas;19492;automatic;sedan;silver
+7305578496;auburn;28590;2018;audi;q5 premium sport utility 4d;good;6 cylinders;gas;31033;other;SUV;silver
+7305186870;auburn;18590;2018;hyundai;sonata sel sedan 4d;good;6 cylinders;gas;22075;other;sedan;white
+7305150035;auburn;29990;2018;audi;a6 2.0t premium plus sedan;good;6 cylinders;other;24996;automatic;sedan;silver
+7304785580;auburn;4000;2006;jeep;grand cherokee laredo;good;6 cylinders;gas;281000;automatic;SUV;black
+7304685581;auburn;32990;2019;jeep;wrangler sport suv 2d;good;6 cylinders;other;1423;other;SUV;yellow
+7304685502;auburn;27590;2012;jeep;wrangler unlimited sport;good;6 cylinders;gas;52172;other;SUV;black
+7304646033;auburn;18590;2017;toyota;camry le sedan 4d;good;6 cylinders;gas;30223;other;sedan;silver
+7304645998;auburn;33590;2017;ram;1500 crew cab laramie pickup;good;6 cylinders;other;45464;other;pickup;red
+7304184221;auburn;40990;2017;jeep;wrangler unlimited rubicon;good;6 cylinders;other;30092;other;other;black
+7304158673;auburn;33590;2017;jeep;wrangler unlimited sport;good;6 cylinders;gas;37919;other;SUV;black
+7304134738;auburn;31590;2017;jeep;wrangler unlimited sport;good;6 cylinders;gas;35391;other;SUV;black
+7304111898;auburn;30990;2017;jeep;wrangler unlimited sport;good;6 cylinders;gas;43039;other;SUV;silver
+7303661415;auburn;14590;2012;bmw;1 series 128i coupe 2d;good;6 cylinders;other;80465;other;coupe;black
+7303661350;auburn;20590;2018;chrysler;300 limited sedan 4d;good;6 cylinders;gas;71021;other;sedan;black
+7303606749;auburn;19990;2020;mitsubishi;outlander sport es;good;6 cylinders;other;11103;other;hatchback;orange
+7303606702;auburn;10990;2013;nissan;sentra s sedan 4d;good;6 cylinders;gas;81557;other;sedan;red
+7303236380;auburn;26990;2018;gmc;acadia sle-2 sport utility;good;6 cylinders;gas;26514;other;SUV;silver
+7303130875;auburn;36590;2020;gmc;acadia denali sport utility;good;6 cylinders;gas;33026;other;SUV;black
+7303065930;auburn;30990;2020;gmc;acadia slt sport utility 4d;good;6 cylinders;gas;35200;other;SUV;white
+7303065864;auburn;24590;2018;lincoln;mkz select sedan 4d;good;6 cylinders;gas;16081;automatic;sedan;white
+7302597055;auburn;23990;2015;lexus;nx 200t sport utility 4d;good;6 cylinders;other;48462;other;hatchback;silver
+7302537601;auburn;25590;2020;buick;encore gx select sport;good;6 cylinders;gas;1113;automatic;SUV;red
+7302537532;auburn;52990;2020;jaguar;e-pace p300 r-dynamic se;good;6 cylinders;gas;79;other;other;white
+7302327214;auburn;19000;2017;subaru;forester;like new;4 cylinders;gas;22700;automatic;SUV;red
+7302286548;auburn;28000;2018;acura;tlx;excellent;6 cylinders;gas;55000;automatic;sedan;white
+7302108846;auburn;17590;2015;volvo;s60 t5 premier sedan 4d;good;6 cylinders;gas;63512;automatic;sedan;blue
+7302062793;auburn;36590;2020;volvo;s60 t6 r-design sedan 4d;good;6 cylinders;gas;18506;other;sedan;blue
+7302043460;auburn;35990;2020;volvo;s60 t6 inscription sedan;good;6 cylinders;other;11878;other;sedan;blue
+7302000016;auburn;38590;2019;volvo;s60 t8 r-design sedan 4d;good;6 cylinders;gas;14054;automatic;sedan;black
+7301673626;auburn;29590;2018;lincoln;continental select sedan;good;6 cylinders;other;33047;automatic;sedan;white
+7301673609;auburn;32590;2018;alfa-romeo;romeo stelvio sport suv 4d;good;6 cylinders;other;14863;other;hatchback;blue
+7301647209;auburn;27590;2018;infiniti;qx60 3.5 sport utility;good;6 cylinders;gas;41119;automatic;SUV;blue
+7301624602;auburn;38990;2020;audi;q5 45 tfsi premium plus;good;6 cylinders;gas;19067;other;SUV;white
+7316878036;birmingham;21950;2012;toyota;tacoma 4x4;excellent;4 cylinders;gas;143060;manual;truck;silver
+7316874816;birmingham;13950;2011;toyota;tacoma;good;4 cylinders;gas;151060;automatic;truck;silver
+7316872263;birmingham;12950;2005;bmw;z4;excellent;6 cylinders;gas;69586;automatic;convertible;white
+7316871664;birmingham;18950;2010;ford;f150 lariat supercrew 4x4;good;8 cylinders;gas;151403;automatic;pickup;black
+7316871204;birmingham;6995;2011;volkswagen;jetta sel;excellent;5 cylinders;gas;172752;automatic;sedan;black
+7316870942;birmingham;12500;2008;ford;ranger xlt;excellent;6 cylinders;gas;141345;automatic;truck;grey
+7316870516;birmingham;16950;2007;toyota;tacoma double cab;good;6 cylinders;gas;156792;automatic;truck;white
+7316870143;birmingham;22950;2014;ford;f150 supercrew cab xlt;excellent;8 cylinders;gas;166380;automatic;truck;black
+7316869910;birmingham;12950;2011;honda;crv ex;excellent;4 cylinders;gas;87994;automatic;SUV;silver
+7316869708;birmingham;12950;2007;mazda;mx-5 miata touring;excellent;4 cylinders;gas;90610;automatic;convertible;black
+7316869215;birmingham;13950;2011;mazda;mx-5 miata grand touring;excellent;4 cylinders;gas;138235;automatic;convertible;red
+7316868894;birmingham;19950;2009;porsche;boxster;excellent;6 cylinders;gas;80190;automatic;convertible;red
+7316868562;birmingham;13950;2008;mazda;miata;excellent;4 cylinders;gas;86650;manual;convertible;grey
+7316868220;birmingham;10950;2009;lexus;rx350;excellent;6 cylinders;gas;191955;automatic;SUV;white
+7316867506;birmingham;13950;2006;lexus;gx470;good;8 cylinders;gas;178790;automatic;SUV;red
+7316852517;birmingham;21250;2002;ford;thunderbird;new;8 cylinders;gas;15996;automatic;convertible;yellow
+7316846605;birmingham;4500;2008;ford;mustang;good;6 cylinders;gas;187016;automatic;coupe;red
+7316788498;birmingham;39590;2020;chevrolet;silverado 1500 crew;good;8 cylinders;gas;19160;other;pickup;red
+7316788533;birmingham;26990;2017;nissan;titan single cab sv;good;8 cylinders;gas;41335;other;pickup;red
+7316762099;birmingham;4299;2007;nissan;sentra;good;4 cylinders;gas;189321;automatic;sedan;silver
+7316735728;birmingham;3950;2008;kia;spectra ex;excellent;4 cylinders;gas;247377;automatic;sedan;silver
+7316734951;birmingham;5900;1998;ford;f150;excellent;8 cylinders;gas;214000;automatic;truck;red
+7316622592;birmingham;25990;2016;bmw;5 series;good;6 cylinders;gas;75123;automatic;sedan;black
+7316544266;birmingham;32000;2008;chevrolet;silverado 2500;good;8 cylinders;diesel;109600;automatic;truck;white
+7316535686;birmingham;3399;2006;buick;lacrosse;good;6 cylinders;gas;160218;automatic;sedan;blue
+7316482063;birmingham;4000;2002;toyota;echo;excellent;4 cylinders;gas;155000;automatic;sedan;blue
+7316478418;birmingham;3900;2009;hyundai;elantra;good;4 cylinders;gas;162005;automatic;sedan;white
+7316471857;birmingham;3000;2004;chevrolet;blazer;good;6 cylinders;gas;131500;automatic;SUV;white
+7316429417;birmingham;2500;1995;bmw;525i;fair;6 cylinders;gas;110661;automatic;sedan;white
+7316422333;birmingham;33590;2014;gmc;sierra 1500 crew cab slt;good;8 cylinders;gas;57923;other;pickup;white
+7316419757;birmingham;12500;2008;gmc;yukon xl;excellent;8 cylinders;gas;177326;automatic;SUV;black
+7316411064;birmingham;15990;2017;ford;c-max hybrid se wagon 4d;good;6 cylinders;hybrid;48195;other;wagon;blue
+7316397515;birmingham;2500;2008;honda;accord;good;6 cylinders;gas;204561;automatic;sedan;silver
+7316396026;birmingham;20995;2011;chevrolet;silverado 1500 ltz crew cab 4wd;good;6 cylinders;;137701;automatic;pickup;silver
+7316395026;birmingham;25995;2015;chevrolet;silverado 1500 lt crew cab 4wd;good;6 cylinders;;151681;automatic;pickup;silver
+7316393935;birmingham;31995;2014;chevrolet;silverado 1500 2lt crew cab long box 4wd;good;6 cylinders;;66738;automatic;pickup;silver
+7316384231;birmingham;5500;1978;ford;f-150;good;8 cylinders;gas;239000;automatic;truck;green
+7316368518;birmingham;27990;2012;gmc;sierra 2500 hd extended cab;good;8 cylinders;gas;68696;other;pickup;black
+7316349679;birmingham;24990;2018;gmc;canyon extended cab pickup;good;6 cylinders;other;32329;other;pickup;white
+7316337545;birmingham;10990;2011;mercedes-benz;ml350;excellent;6 cylinders;gas;119172;automatic;SUV;white
+7316330293;birmingham;3300;1999;chrysler;300m;good;6 cylinders;gas;162026;automatic;sedan;white
+7316282669;birmingham;8100;2011;ford;escape;excellent;6 cylinders;hybrid;140000;automatic;SUV;white
+7316244350;birmingham;3999;2003;infiniti;g35 sedan;good;6 cylinders;gas;233830;automatic;sedan;red
+7316187372;birmingham;5500;1974;mercedes-benz;1929 ssk replica;good;4 cylinders;gas;9999;automatic;convertible;yellow
+7316170760;birmingham;3500;1996;chevrolet;tahoe;excellent;8 cylinders;gas;237000;automatic;offroad;black
+7316160104;birmingham;29990;2016;chevrolet;colorado extended cab;good;6 cylinders;gas;17302;other;pickup;red
+7316160083;birmingham;35590;2010;chevrolet;corvette convertible;good;8 cylinders;gas;31879;other;other;red
+7316100915;birmingham;27998;2008;porsche;cayman;good;6 cylinders;gas;69505;automatic;coupe;black
+7316065114;birmingham;6800;2004;mercedes-benz;clk320;good;6 cylinders;gas;116700;automatic;convertible;silver
+7316031977;birmingham;45000;2017;chevrolet;silverado;excellent;8 cylinders;gas;92000;automatic;truck;red
+7316018962;birmingham;2550;2004;cadillac;srx;good;6 cylinders;gas;224105;automatic;SUV;white
+7315958516;birmingham;7980;2013;bmw;x3;good;4 cylinders;gas;156295;manual;SUV;white
+7315946617;birmingham;7800;2005;honda;accord ex-l;excellent;4 cylinders;gas;155000;manual;convertible;red
+7315946365;birmingham;9000;2008;mazda;miata mx-5;excellent;4 cylinders;gas;56700;automatic;sedan;white
+7315941653;birmingham;5980;2005;cadillac;sts;good;8 cylinders;gas;129448;automatic;hatchback;white
+7315938243;birmingham;13500;2000;chevrolet;corvette;like new;8 cylinders;gas;92000;manual;sedan;black
+7315932100;birmingham;19950;1955;chevrolet;bel air;good;8 cylinders;gas;96867;automatic;sedan;green
+7315923364;birmingham;5980;2005;acura;tl;good;6 cylinders;gas;179721;automatic;sedan;silver
+7315914029;birmingham;2675;1996;toyota;camry;good;4 cylinders;gas;164719;automatic;SUV;green
+7315883471;birmingham;6980;2011;kia;sorento;good;6 cylinders;gas;182321;other;other;red
+7315873690;birmingham;31990;2017;jeep;wrangler sport s utility 2d;good;6 cylinders;gas;891;other;sedan;white
+7315862871;birmingham;6980;2008;toyota;avalon;good;6 cylinders;gas;158888;automatic;van;silver
+7315847287;birmingham;2600;2000;buick;lesabre;good;6 cylinders;gas;212061;automatic;sedan;blue
+7315832990;birmingham;26995;2015;ford;f-350;good;6 cylinders;diesel;247000;automatic;pickup;yellow
+7315826530;birmingham;27990;2014;toyota;tacoma access cab pickup;good;6 cylinders;other;17805;other;other;red
+7315819285;birmingham;4500;2014;ford;f250 xl;good;6 cylinders;gas;250000;automatic;SUV;yellow
+7315799907;birmingham;5480;2013;chevrolet;captiva sport;good;4 cylinders;gas;182711;automatic;coupe;grey
+7315785227;birmingham;16990;2016;kia;forte koup ex coupe 2d;good;6 cylinders;gas;17631;other;pickup;yellow
+7315785215;birmingham;37590;2019;ford;f150 supercrew cab xl;good;6 cylinders;gas;8663;other;sedan;yellow
+7315780240;birmingham;3975;2010;chevrolet;cobalt;good;4 cylinders;gas;162455;automatic;SUV;silver
+7315717357;birmingham;11977;2015;gmc;terrain;good;6 cylinders;gas;106591;automatic;sedan;silver
+7315683764;birmingham;29998;2014;mercedes-benz;cls;good;8 cylinders;gas;57406;automatic;sedan;grey
+7315670261;birmingham;12895;1991;chevrolet;corvette;good;8 cylinders;gas;43725;automatic;SUV;black
+7315607166;birmingham;3650;1999;jeep;grand cherokee;good;6 cylinders;gas;151379;automatic;SUV;blue
+7315582673;birmingham;3299;2003;chevrolet;cavalier;good;4 cylinders;gas;176354;automatic;sedan;black
+7315552491;birmingham;4499;2005;toyota;camry;good;4 cylinders;gas;170687;automatic;SUV;blue
+7315536101;birmingham;5940;2011;kia;soul;good;4 cylinders;gas;163385;manual;sedan;white
+7315518205;birmingham;3999;2009;volvo;s60;good;5 cylinders;gas;182005;automatic;SUV;silver
+7315518138;birmingham;8980;2011;jeep;grand cherokee;good;6 cylinders;;173787;manual;SUV;silver
+7315506908;birmingham;4950;2001;toyota;4runner limited;good;6 cylinders;gas;266000;automatic;SUV;white
+7315498556;birmingham;4980;2010;chevrolet;traverse;good;6 cylinders;gas;208122;manual;sedan;silver
+7315477708;birmingham;4400;2006;buick;lacrosse;good;6 cylinders;gas;124201;automatic;sedan;white
+7315477644;birmingham;8980;2010;dodge;charger;good;8 cylinders;gas;207260;automatic;pickup;black
+7315472611;birmingham;33590;2014;toyota;tundra crewmax sr5 pickup;good;6 cylinders;other;55251;other;coupe;red
+7315472435;birmingham;39590;2020;ford;mustang gt premium coupe 2d;good;8 cylinders;gas;1419;other;other;white
+7315472446;birmingham;26590;2017;honda;pilot lx sport utility 4d;good;6 cylinders;gas;13836;other;sedan;blue
+7315467479;birmingham;21990;2018;buick;regal sportback preferred;good;6 cylinders;gas;4988;other;sedan;white
+7315467324;birmingham;19990;2017;hyundai;sonata plug-in hybrid;good;6 cylinders;hybrid;29254;manual;pickup;white
+7315467192;birmingham;30990;2019;ford;ranger supercrew xl pickup;good;6 cylinders;other;1834;other;SUV;black
+7315455723;birmingham;6980;2006;nissan;pathfinder;good;6 cylinders;gas;146779;automatic;wagon;silver
+7315432897;birmingham;4100;2010;hyundai;elantra touring;good;4 cylinders;gas;130206;manual;sedan;grey
+7315432820;birmingham;7980;2015;kia;forte;good;4 cylinders;gas;121682;automatic;SUV;black
+7315409578;birmingham;9980;2013;infiniti;jx35;good;6 cylinders;gas;171226;automatic;truck;white
+7315384686;birmingham;2300;1997;buick;lesabre;good;6 cylinders;gas;201566;automatic;SUV;green
+7315384602;birmingham;10980;2007;gmc;yukon xl denali;good;8 cylinders;gas;181633;automatic;truck;black
+7315377651;birmingham;15000;2009;toyota;tacoma 4x4;good;6 cylinders;gas;213800;automatic;SUV;silver
+7315366606;birmingham;14897;2012;jeep;grand cherokee;good;6 cylinders;gas;112510;other;SUV;silver
+7315366439;birmingham;11400;2013;kia;sportage;good;4 cylinders;gas;92986;other;coupe;blue
+7315359827;birmingham;10980;2012;ford;mustang;good;6 cylinders;gas;159559;manual;SUV;silver
+7315355524;birmingham;3500;1998;jeep;cherokee;good;6 cylinders;gas;273000;automatic;truck;white
+7315354216;birmingham;8950;2011;ford;f-150;excellent;6 cylinders;gas;164000;automatic;coupe;white
+7315349921;birmingham;4000;1972;mercedes-benz;benz;fair;6 cylinders;gas;88100;automatic;truck;silver
+7315345469;birmingham;50000;2019;toyota;tundra;like new;8 cylinders;gas;20010;automatic;sedan;white
+7315336062;birmingham;3500;2009;hyundai;accent;good;4 cylinders;gas;111387;automatic;sedan;white
+7315294251;birmingham;1200;2005;chevrolet;impala;fair;4 cylinders;gas;256806;automatic;sedan;blue
+7315329101;birmingham;8888;2005;nissan;altima 3.5 sl;excellent;6 cylinders;gas;53320;automatic;pickup;brown
+7315296502;birmingham;26990;2016;toyota;tacoma;good;6 cylinders;gas;102089;automatic;bus;grey
+7315145734;birmingham;5800;2001;ford;crown vic;good;6 cylinders;gas;105000;automatic;sedan;black
+7315136222;birmingham;3999;2006;pontiac;grand prix;good;6 cylinders;gas;207238;automatic;SUV;white
+7315125503;birmingham;6000;2011;acura;mdx;good;6 cylinders;gas;197331;automatic;sedan;black
+7315110575;birmingham;9400;2008;mercedes-benz;benz c350;good;6 cylinders;gas;129473;automatic;SUV;silver
+7315109151;birmingham;3850;2003;dodge;durango;good;8 cylinders;gas;215604;automatic;SUV;blue
+7315094967;birmingham;7900;2013;nissan;pathfinder;good;6 cylinders;gas;152400;automatic;wagon;white
+7315075822;birmingham;4300;2012;kia;soul;good;4 cylinders;gas;174053;automatic;sedan;silver
+7315016146;birmingham;27995;2012;ford;f250 super duty;good;6 cylinders;gas;47380;automatic;sedan;white
+7314992967;birmingham;3900;2010;chevrolet;cobalt;good;4 cylinders;gas;162218;automatic;truck;silver
+7314967754;birmingham;7300;2007;lexus;rx350;good;6 cylinders;gas;181000;automatic;SUV;white
+7314956487;birmingham;72900;2021;chevrolet;tahoe;good;8 cylinders;gas;19129;automatic;SUV;grey
+7314956410;birmingham;28900;2017;audi;q7;good;6 cylinders;gas;94601;automatic;SUV;white
+7314956329;birmingham;17000;2019;chevrolet;trax;good;4 cylinders;gas;14898;automatic;SUV;grey
+7314941829;birmingham;199;2017;dodge;charger;good;6 cylinders;gas;21737;automatic;hatchback;black
+7314938392;birmingham;5950;2007;mitsubishi;eclipse;good;4 cylinders;gas;72000;manual;pickup;black
+7314897630;birmingham;24590;2017;chevrolet;silverado 1500 regular;good;6 cylinders;gas;40784;other;sedan;white
+7314897221;birmingham;3999;2006;honda;accord sedan;good;4 cylinders;gas;253076;automatic;wagon;silver
+7314893113;birmingham;8900;2013;toyota;prius;excellent;4 cylinders;hybrid;142900;automatic;sedan;blue
+7314885567;birmingham;34590;2018;ford;f150 super cab xl pickup 4d;good;6 cylinders;gas;20856;other;coupe;white
+7314885483;birmingham;39990;2019;nissan;370z nismo coupe 2d;good;6 cylinders;gas;8373;other;pickup;white
+7314885435;birmingham;30590;2016;toyota;tacoma double cab sr5;good;6 cylinders;other;30176;other;SUV;red
+7314879552;birmingham;11587;2013;ford;escape;good;4 cylinders;gas;215046;other;sedan;black
+7314833347;birmingham;4000;2002;toyota;camry;like new;4 cylinders;gas;160000;automatic;sedan;white
+7314848183;birmingham;2999;2007;ford;taurus;good;6 cylinders;gas;162029;automatic;sedan;blue
+7314847158;birmingham;10800;2013;toyota;camry;excellent;4 cylinders;hybrid;147000;automatic;sedan;grey
+7314744435;birmingham;10500;2014;volkswagen;jetta tdi;excellent;6 cylinders;diesel;52000;automatic;truck;grey
+7314730546;birmingham;3500;1994;ford;f450;fair;8 cylinders;diesel;190000;manual;pickup;white
+7314709451;birmingham;31990;2016;chevrolet;silverado 1500;good;8 cylinders;;107597;automatic;SUV;white
+7314664527;birmingham;36990;2018;toyota;4runner sr5 sport utility;good;6 cylinders;gas;21415;other;pickup;silver
+7314664514;birmingham;23590;2017;nissan;frontier king cab sv;good;6 cylinders;gas;37091;other;hatchback;red
+7314664519;birmingham;17990;2013;subaru;xv crosstrek premium;good;6 cylinders;gas;57371;other;pickup;blue
+7314664521;birmingham;30990;2017;nissan;frontier crew cab pro-4x;good;6 cylinders;gas;31095;other;sedan;white
+7314664494;birmingham;21590;2017;buick;regal premium ii sedan 4d;good;6 cylinders;gas;14934;other;sedan;white
+7314664471;birmingham;21990;2019;toyota;camry l sedan 4d;good;6 cylinders;other;5607;other;sedan;red
+7314656633;birmingham;16000;2016;dodge;charger;like new;6 cylinders;gas;62000;automatic;sedan;silver
+7314654378;birmingham;1500;2005;toyota;solara;good;4 cylinders;gas;222100;automatic;SUV;silver
+7314589649;birmingham;10500;2008;infiniti;ex35;good;6 cylinders;gas;122904;automatic;hatchback;black
+7314584193;birmingham;9500;2014;toyota;prius v hybrid;good;4 cylinders;gas;136128;automatic;SUV;white
+7314583885;birmingham;12900;2014;nissan;rogue sv;good;4 cylinders;gas;120211;automatic;SUV;red
+7314570604;birmingham;4275;2006;jeep;liberty;good;6 cylinders;gas;174132;automatic;SUV;red
+7314448560;birmingham;3850;2010;volkswagen;jetta;good;6 cylinders;gas;178000;automatic;sedan;black
+7314409980;birmingham;6000;2004;subaru;baja;excellent;4 cylinders;gas;64000;automatic;sedan;black
+7314384262;birmingham;15897;2018;chevrolet;malibu;good;4 cylinders;gas;65950;other;sedan;grey
+7314331833;birmingham;29995;2013;chevrolet;silverado 2500hd;good;6 cylinders;diesel;173000;automatic;sedan;black
+7314293077;birmingham;48900;2018;chevrolet;silverado 2500 hd ltz;like new;8 cylinders;diesel;43034;automatic;SUV;black
+7314278078;birmingham;9988;2014;kia;sorento lx;good;4 cylinders;gas;121259;automatic;pickup;red
+7314277700;birmingham;21334;2021;toyota;corolla;good;6 cylinders;gas;7277;automatic;SUV;white
+7314276424;birmingham;16888;2008;toyota;fj cruiser 4x4;good;6 cylinders;gas;188096;automatic;SUV;yellow
+7314276144;birmingham;19888;2015;mercedes-benz;benz ml 450;excellent;6 cylinders;gas;111261;automatic;SUV;silver
+7314275948;birmingham;31888;2015;gmc;1500 yukon slt;good;8 cylinders;gas;109947;automatic;bus;white
+7314222909;birmingham;50990;2017;mercedes-benz;s-class;good;8 cylinders;gas;68643;automatic;convertible;black
+7314048587;birmingham;28995;2017;chevrolet;silverado 2500hd;good;6 cylinders;gas;102000;automatic;pickup;white
+7314047007;birmingham;34950;2016;nissan;titan xd cummins platinum;good;6 cylinders;diesel;158159;automatic;coupe;white
+7314044610;birmingham;99950;2021;chevrolet;corvette stingray spor;good;6 cylinders;gas;510;automatic;hatchback;orange
+7314042284;birmingham;29950;1998;pontiac;firebird trans am ws6;excellent;6 cylinders;gas;16429;automatic;convertible;black
+7314039798;birmingham;39995;1999;dodge;viper rt 10 removable top;good;6 cylinders;gas;15897;manual;SUV;silver
+7313975544;birmingham;16990;2019;toyota;corolla;good;4 cylinders;gas;44752;automatic;sedan;black
+7313975461;birmingham;12499;2012;toyota;camry;good;4 cylinders;gas;64950;automatic;wagon;red
+7313975305;birmingham;13999;2018;kia;soul;excellent;4 cylinders;gas;46848;automatic;pickup;white
+7313975157;birmingham;28249;2016;toyota;tundra double cab;excellent;8 cylinders;gas;78000;automatic;sedan;red
+7313975008;birmingham;7999;2007;toyota;camry;excellent;6 cylinders;gas;67650;automatic;sedan;custom
+7313974428;birmingham;8799;2006;acura;tsx;good;4 cylinders;gas;89375;automatic;SUV;white
+7313974227;birmingham;19990;2017;nissan;pathfinder;good;6 cylinders;gas;53950;automatic;SUV;white
+7313922048;birmingham;19900;2011;ford;f250 service;good;8 cylinders;gas;142268;automatic;sedan;white
+7313898024;birmingham;9990;2015;toyota;corolla le;excellent;4 cylinders;gas;125224;automatic;truck;yellow
+7313897256;birmingham;29950;2014;gmc;sierra 1500;excellent;8 cylinders;gas;139029;automatic;SUV;black
+7313896887;birmingham;9990;2009;lexus;rx350;excellent;6 cylinders;gas;163230;automatic;truck;yellow
+7313896811;birmingham;45950;2014;gmc;sierra 2500hd denali;excellent;8 cylinders;diesel;154289;automatic;sedan;black
+7313896765;birmingham;17897;2015;lincoln;mkz;good;6 cylinders;gas;91067;other;pickup;white
+7313889508;birmingham;11500;2008;ford;f-250 super duty xl;good;8 cylinders;diesel;283356;automatic;sedan;white
+7313884888;birmingham;7990;2011;bmw;328i;excellent;6 cylinders;gas;123000;automatic;SUV;silver
+7313876057;birmingham;9990;2009;bmw;x5;excellent;6 cylinders;gas;93659;automatic;SUV;silver
+7313867413;birmingham;11990;2011;honda;crv ex-l;excellent;4 cylinders;gas;109000;automatic;SUV;silver
+7313860113;birmingham;15990;2015;chevrolet;camaro;good;6 cylinders;gas;53000;automatic;SUV;black
+7313856690;birmingham;14700;2015;honda;cr-v ex-l;excellent;4 cylinders;gas;70672;automatic;bus;brown
+7313778192;birmingham;36995;2017;chevrolet;silverado 2500hd;good;6 cylinders;gas;43553;automatic;coupe;white
+7313775964;birmingham;39590;2017;chevrolet;camaro ss coupe 2d;good;8 cylinders;gas;10496;other;pickup;white
+7313775792;birmingham;26990;2016;ford;f150 regular cab xl pickup;good;6 cylinders;gas;14230;other;other;black
+7313775714;birmingham;36990;2015;chevrolet;tahoe lt sport utility;good;8 cylinders;other;51677;other;van;black
+7313728831;birmingham;1500;2011;ford;crown victoria;good;6 cylinders;gas;123000;automatic;sedan;silver
+7313727515;birmingham;25500;2015;jaguar;xj;good;6 cylinders;;71114;automatic;convertible;black
+7313674968;birmingham;29900;2016;jeep;wrangler;good;6 cylinders;gas;131091;automatic;SUV;white
+7313672942;birmingham;7200;2007;toyota;highlander;excellent;4 cylinders;gas;155490;automatic;truck;silver
+7313599275;birmingham;17500;2001;ram;3500;good;6 cylinders;diesel;178000;manual;hatchback;white
+7313589313;birmingham;18950;2009;jeep;wrangler;excellent;6 cylinders;gas;;automatic;SUV;red
+7313588835;birmingham;6900;2008;ford;escape hev;good;4 cylinders;hybrid;103550;automatic;wagon;white
+7313588556;birmingham;10900;2010;honda;accord crosstour exl;good;6 cylinders;gas;97804;automatic;hatchback;grey
+7313588273;birmingham;8900;2014;fiat;500l lounge;good;4 cylinders;gas;84778;automatic;sedan;red
+7313525257;birmingham;8900;2003;ford;f250 lariat;good;8 cylinders;diesel;247000;automatic;sedan;red
+7313484951;birmingham;10980;2012;ford;mustang;good;6 cylinders;gas;159000;automatic;truck;blue
+7313478091;birmingham;27990;2014;ram;2500 4x4;like new;6 cylinders;diesel;2222222;automatic;other;white
+7313451606;birmingham;36990;2016;gmc;sierra 2500 hd double cab;good;8 cylinders;gas;23190;other;pickup;black
+7313451582;birmingham;24590;2013;gmc;sierra 1500 extended cab slt;good;8 cylinders;other;80318;other;sedan;blue
+7313427277;birmingham;36995;2017;chevrolet;silverado 2500hd;excellent;6 cylinders;gas;43553;automatic;SUV;white
+7313419020;birmingham;19888;2015;mercedes-benz;benz ml 450;excellent;6 cylinders;gas;111261;automatic;SUV;silver
+7313418727;birmingham;31888;2015;gmc;1500 yukon slt;good;8 cylinders;gas;109947;automatic;pickup;white
+7313375333;birmingham;25990;2019;ram;1500 classic regular cab;good;8 cylinders;gas;12302;other;pickup;white
+7313376590;birmingham;23888;2014;ram;1500 express;like new;8 cylinders;diesel;110789;automatic;pickup;silver
+7313375192;birmingham;25590;2015;gmc;sierra 1500 regular cab;good;6 cylinders;other;35290;other;sedan;white
+7313361936;birmingham;2600;2000;buick;lesabre;excellent;6 cylinders;gas;212061;automatic;sedan;blue
+7313346134;birmingham;3500;2008;acura;tl;good;6 cylinders;gas;242000;automatic;pickup;grey
+7313343182;birmingham;27990;2020;ford;ranger supercab xl pickup;good;6 cylinders;gas;10688;other;sedan;white
+7313280464;birmingham;11977;2014;buick;verano;excellent;6 cylinders;gas;54693;automatic;truck;silver
+7313272909;birmingham;27900;2014;chevrolet;silverado 3500hd;good;8 cylinders;diesel;170525;automatic;hatchback;white
+7313267024;birmingham;31590;2019;cadillac;xt4 sport suv 4d;good;6 cylinders;other;12102;other;sedan;black
+7313260486;birmingham;4950;2002;acura;rl;excellent;6 cylinders;gas;201000;automatic;SUV;white
+7313259831;birmingham;3950;2003;honda;civic ex;excellent;4 cylinders;gas;236890;automatic;truck;white
+7313224965;birmingham;21990;2015;mercedes-benz;glk;good;4 cylinders;diesel;90508;automatic;sedan;white
+7313219085;birmingham;9500;2013;hyundai;sonata;excellent;4 cylinders;gas;125000;automatic;sedan;red
+7313210683;birmingham;16900;2015;kia;optima;good;4 cylinders;gas;82999;automatic;SUV;white
+7313210657;birmingham;19900;2011;cadillac;escalade;good;8 cylinders;gas;133257;automatic;sedan;white
+7313210643;birmingham;19900;2019;hyundai;sonata;good;4 cylinders;gas;21872;automatic;sedan;white
+7313210587;birmingham;18900;2019;nissan;altima;good;4 cylinders;gas;47421;automatic;SUV;grey
+7313175430;birmingham;22000;2013;rover;lr4 hse;good;8 cylinders;gas;119550;automatic;truck;white
+7313167064;birmingham;1500;2004;chevrolet;colorado;fair;4 cylinders;gas;150000;automatic;convertible;black
+7313161057;birmingham;23500;2008;lexus;sc430;excellent;8 cylinders;gas;73500;automatic;truck;red
+7313145810;birmingham;3250;1997;lincoln;town car;good;8 cylinders;gas;142000;other;sedan;white
+7313137419;birmingham;3450;1997;honda;accord sedan;good;4 cylinders;gas;172295;automatic;sedan;black
+7313079270;birmingham;5000;2005;honda;element ex;good;4 cylinders;gas;182000;automatic;SUV;red
+7313029336;birmingham;34900;2020;nissan;pathfinder;excellent;6 cylinders;gas;15400;automatic;sedan;white
+7312985712;birmingham;36995;2013;chevrolet;silverado 3500hd;good;6 cylinders;gas;58056;automatic;pickup;white
+7312938924;birmingham;34590;2016;chevrolet;silverado 1500 double;good;6 cylinders;gas;29499;other;SUV;silver
+7312932052;birmingham;3650;1999;jeep;grand cherokee;good;6 cylinders;gas;151379;automatic;SUV;blue
+7312908147;birmingham;18000;2016;mazda;cx-5;excellent;4 cylinders;gas;33000;automatic;pickup;white
+7312892348;birmingham;27990;2017;chevrolet;colorado extended cab;good;6 cylinders;gas;22120;other;truck;white
+7312879695;birmingham;26990;2008;ram;2500 mega cab 4x4;like new;6 cylinders;diesel;172000;automatic;truck;red
+7312876423;birmingham;17990;2018;ford;edge sel;like new;6 cylinders;gas;1111111;automatic;sedan;blue
+7312874716;birmingham;11990;2011;audi;a3 tdi premium plus;like new;4 cylinders;diesel;70000;automatic;truck;black
+7312807755;birmingham;16888;2008;toyota;fj cruiser 4x4;good;6 cylinders;gas;188096;automatic;pickup;yellow
+7312805374;birmingham;31990;2013;toyota;tundra double cab pickup;good;8 cylinders;gas;55068;other;sedan;white
+7312806049;birmingham;25495;2017;mercedes-benz;c-class;excellent;4 cylinders;gas;42056;automatic;bus;black
+7312748821;birmingham;38590;2011;chevrolet;corvette grand sport;good;8 cylinders;gas;30237;other;sedan;red
+7312600310;birmingham;3500;1996;chevrolet;tahoe;excellent;8 cylinders;gas;237000;automatic;sedan;green
+7312578462;birmingham;8500;2011;toyota;camry;excellent;4 cylinders;gas;114500;automatic;sedan;blue
+7312563837;birmingham;3495;2008;chevrolet;malibu;good;6 cylinders;gas;157305;automatic;sedan;white
+7312550865;birmingham;5980;2010;ford;fusion;good;4 cylinders;gas;178753;manual;sedan;red
+7312532755;birmingham;7480;2013;hyundai;sonata;good;4 cylinders;gas;117271;automatic;truck;blue
+7312514213;birmingham;8950;2011;ford;f-150;excellent;6 cylinders;gas;164000;automatic;SUV;white
+7312513513;birmingham;5980;2013;jeep;patriot;good;4 cylinders;gas;106290;manual;sedan;white
+7312503468;birmingham;4499;2005;toyota;camry;good;4 cylinders;gas;170687;automatic;sedan;blue
+7312471541;birmingham;5980;2008;chevrolet;impala;good;6 cylinders;;165596;automatic;sedan;black
+7312448828;birmingham;6980;2008;mercedes-benz;c-class;excellent;6 cylinders;gas;148095;automatic;pickup;black
+7312431442;birmingham;3450;2007;toyota;prius;good;4 cylinders;;263198;automatic;SUV;grey
+7312425764;birmingham;5980;2005;nissan;xterra;good;6 cylinders;gas;198576;manual;pickup;silver
+7312387610;birmingham;2300;2008;chevrolet;hhr lt;excellent;4 cylinders;gas;165000;automatic;SUV;black
+7312380245;birmingham;5480;2005;dodge;durango;good;8 cylinders;gas;178667;automatic;pickup;white
+7312370075;birmingham;36990;2017;ford;f150 supercrew cab xlt;good;6 cylinders;other;15443;automatic;pickup;red
+7312370023;birmingham;26990;2014;chevrolet;silverado 1500 crew;good;6 cylinders;gas;63129;automatic;other;black
+7312369984;birmingham;29990;2017;jeep;wrangler sport suv 2d;good;6 cylinders;gas;28680;other;sedan;black
+7312369856;birmingham;24990;2017;audi;a4 ultra premium sedan 4d;good;6 cylinders;other;21314;other;sedan;blue
+7312358654;birmingham;3999;2009;volvo;s60;good;5 cylinders;gas;182005;automatic;van;silver
+7312358579;birmingham;4380;2007;hyundai;entourage;good;6 cylinders;gas;185852;automatic;pickup;blue
+7312322826;birmingham;33990;2016;chevrolet;silverado 1500;good;8 cylinders;;117895;automatic;truck;white
+7312317138;birmingham;6200;1984;gmc;sierra;fair;8 cylinders;gas;51000;manual;sedan;white
+7312291108;birmingham;17577;2019;hyundai;ioniq hybrid;excellent;6 cylinders;gas;26723;automatic;other;black
+7312276807;birmingham;38990;2017;jeep;wrangler unlimited rubicon;good;6 cylinders;gas;20676;other;SUV;red
+7312203221;birmingham;21998;2009;chevrolet;suburban;excellent;8 cylinders;gas;92518;automatic;sedan;white
+7312181319;birmingham;4400;2006;buick;lacrosse;excellent;6 cylinders;gas;124201;automatic;SUV;white
+7312174601;birmingham;13500;2013;infiniti;jx35;excellent;6 cylinders;gas;108829;automatic;sedan;black
+7312156353;birmingham;4500;2011;ford;fusion;good;4 cylinders;gas;167870;automatic;sedan;blue
+7312146497;birmingham;4500;2005;toyota;camry xle;like new;4 cylinders;gas;170000;automatic;wagon;white
+7312124399;birmingham;4100;2010;hyundai;elantra touring;good;4 cylinders;gas;130206;manual;coupe;grey
+7312106780;birmingham;5940;2009;mini;cooper hardtop 2 door;good;4 cylinders;gas;149835;manual;sedan;red
+7312087895;birmingham;2300;1997;buick;lesabre;good;6 cylinders;gas;201566;automatic;sedan;green
+7312087840;birmingham;5970;2010;nissan;altima;good;4 cylinders;gas;122584;automatic;van;grey
+7312067777;birmingham;5980;2006;honda;odyssey;good;6 cylinders;gas;167440;automatic;sedan;silver
+7312045928;birmingham;3500;2009;hyundai;accent;good;4 cylinders;gas;111387;automatic;SUV;white
+7312045874;birmingham;6980;2006;nissan;pathfinder;good;6 cylinders;gas;146779;automatic;coupe;silver
+7312034925;birmingham;33990;2018;ford;mustang gt coupe 2d;good;8 cylinders;gas;23720;other;sedan;blue
+7312022758;birmingham;6380;2013;kia;optima;excellent;4 cylinders;gas;193254;automatic;sedan;silver
+7311998455;birmingham;3999;2006;pontiac;grand prix;excellent;6 cylinders;gas;207238;automatic;sedan;white
+7311998372;birmingham;3980;2013;kia;rio;excellent;4 cylinders;gas;0;manual;sedan;white
+7311954636;birmingham;26590;2020;honda;civic si coupe 2d;good;6 cylinders;gas;9954;other;sedan;silver
+7311948211;birmingham;4250;2007;chrysler;pt cruiser;good;4 cylinders;gas;94093;automatic;pickup;red
+7311948105;birmingham;10980;2012;ford;f-150;good;6 cylinders;;178802;automatic;sedan;silver
+7311941668;birmingham;6400;2006;lexus;es 330;like new;6 cylinders;gas;130000;automatic;SUV;white
+7311929595;birmingham;8897;2014;kia;sorento;good;4 cylinders;gas;189392;other;sedan;silver
+7311929440;birmingham;18897;2016;kia;optima;good;4 cylinders;gas;73330;other;SUV;silver
+7311910342;birmingham;10500;2011;chevrolet;suburban z71;excellent;6 cylinders;gas;225000;automatic;SUV;white
+7311896607;birmingham;3500;2006;ford;freestyle;excellent;6 cylinders;gas;214775;automatic;sedan;blue
+7311896509;birmingham;4980;2005;cadillac;sts;excellent;8 cylinders;gas;129448;automatic;SUV;white
+7311865995;birmingham;29590;2017;ford;expedition xlt sport;good;6 cylinders;gas;70760;other;pickup;blue
+7311865935;birmingham;31990;2017;ram;1500 crew cab big horn;good;8 cylinders;gas;35921;other;coupe;white
+7311865885;birmingham;33990;2017;ford;mustang gt coupe 2d;good;8 cylinders;gas;9788;other;sedan;black
+7311853912;birmingham;34997;2016;ford;super duty f-250 srw;excellent;8 cylinders;gas;122000;automatic;SUV;white
+7311853752;birmingham;52997;2017;rover;sport;excellent;6 cylinders;gas;58947;automatic;SUV;white
+7311831354;birmingham;31888;2015;gmc;1500 yukon slt;good;8 cylinders;gas;109947;automatic;SUV;white
+7311831162;birmingham;19888;2015;mercedes-benz;benz ml 450;excellent;6 cylinders;gas;111261;automatic;pickup;silver
+7311830732;birmingham;24888;2019;ford;f150 regular cab xl;excellent;6 cylinders;gas;8176;automatic;SUV;white
+7311819495;birmingham;33988;2019;nissan;frontier;good;6 cylinders;gas;11939;automatic;sedan;red
+7311815807;birmingham;10977;2011;lexus;is;good;6 cylinders;gas;121428;automatic;pickup;white
+7311808677;birmingham;14475;2011;ford;ranger;excellent;6 cylinders;gas;142842;manual;bus;white
+7311789391;birmingham;35590;2018;ram;1500 crew cab big horn;good;6 cylinders;other;22805;other;sedan;black
+7311741403;birmingham;100000;1984;jeep;cj7;good;6 cylinders;gas;112000;manual;SUV;white
+7311717018;birmingham;27400;2001;lexus;lx 470;good;8 cylinders;gas;169000;automatic;truck;brown
+7311701063;birmingham;37900;2020;chevrolet;silverado 1500;like new;8 cylinders;gas;5622;automatic;van;white
+7311701072;birmingham;31900;2019;ford;transit;like new;6 cylinders;gas;29497;automatic;van;white
+7311701076;birmingham;11500;2013;chevrolet;express;excellent;8 cylinders;gas;228699;automatic;van;white
+7311701079;birmingham;32900;2019;ford;transit;like new;6 cylinders;gas;6735;automatic;van;white
+7311701059;birmingham;31500;2019;gmc;savana;like new;8 cylinders;gas;24585;automatic;truck;white
+7311701051;birmingham;29900;2019;ford;f-150;like new;8 cylinders;gas;23004;automatic;van;white
+7311701056;birmingham;9500;2014;ford;transit connect;excellent;4 cylinders;gas;219581;automatic;van;white
+7311700844;birmingham;17200;2014;ford;transit connect;excellent;4 cylinders;gas;45026;automatic;van;white
+7311700838;birmingham;23900;2017;ford;transit 150;excellent;6 cylinders;gas;108482;automatic;van;white
+7311688589;birmingham;3999;2001;ford;f-150;good;6 cylinders;gas;228680;automatic;coupe;white
+7311660317;birmingham;3850;2003;dodge;durango;good;8 cylinders;gas;215604;automatic;wagon;blue
+7311599994;birmingham;1100;2000;chevrolet;impala;excellent;6 cylinders;gas;187000;automatic;SUV;white
+7311592689;birmingham;5000;2006;jeep;liberty;excellent;6 cylinders;diesel;194000;automatic;sedan;white
+7311568626;birmingham;13750;2013;ford;e350;good;6 cylinders;gas;136850;automatic;truck;white
+7311541915;birmingham;4450;2004;cadillac;srx;good;6 cylinders;gas;144850;automatic;hatchback;white
+7311538928;birmingham;14500;2015;honda;crosstour ex-l;excellent;6 cylinders;gas;60201;automatic;truck;silver
+7311516191;birmingham;27995;2012;ford;f250 super duty;excellent;6 cylinders;gas;26896;automatic;SUV;white
+7311505593;birmingham;1800;2007;nissan;pathfinder;fair;6 cylinders;gas;147000;automatic;sedan;grey
+7311491693;birmingham;199;2017;dodge;charger;excellent;6 cylinders;gas;21737;automatic;pickup;white
+7311452208;birmingham;14950;2007;jeep;wrangler;excellent;6 cylinders;gas;;automatic;pickup;silver
+7311441919;birmingham;2999;2007;ford;taurus;good;6 cylinders;gas;162029;automatic;sedan;blue
+7311423002;birmingham;15897;2018;chevrolet;malibu;good;4 cylinders;gas;50153;other;truck;silver
+7311422771;birmingham;16700;2013;ford;f-150;good;8 cylinders;gas;180917;other;sedan;white
+7311421846;birmingham;6900;2010;mazda;3i;good;4 cylinders;gas;165255;automatic;SUV;grey
+7311417807;birmingham;8500;2008;jeep;commander sport;good;8 cylinders;gas;198000;automatic;pickup;black
+7311411301;birmingham;16900;2015;ram;1500 slt;good;6 cylinders;gas;97563;automatic;pickup;silver
+7311395664;birmingham;21590;2016;ram;1500 regular cab tradesman;good;6 cylinders;gas;35391;other;truck;black
+7311390113;birmingham;24990;2007;ford;super duty f-450 drw;good;10 cylinders;gas;46463;automatic;truck;white
+7311389760;birmingham;33990;2016;chevrolet;express commercial cutaway;excellent;8 cylinders;gas;12398;automatic;SUV;white
+7311389428;birmingham;4500;2005;acura;mdx;excellent;6 cylinders;gas;279000;automatic;truck;blue
+7311389371;birmingham;20990;2006;chevrolet;express cargo van;good;8 cylinders;diesel;134296;automatic;truck;white
+7311388215;birmingham;43990;2016;chevrolet;4500 lcf gas;good;8 cylinders;gas;45542;automatic;truck;white
+7311387863;birmingham;33990;2014;ford;super duty f-550 drw;good;8 cylinders;diesel;136250;automatic;truck;white
+7311387508;birmingham;22990;2010;ford;econoline commercial cutaway;good;10 cylinders;gas;121911;automatic;truck;white
+7311387137;birmingham;24990;2017;gmc;savana commercial cutaway;good;8 cylinders;gas;136965;automatic;truck;white
+7311386812;birmingham;24990;2009;chevrolet;3500 lcf gas;good;8 cylinders;gas;72789;automatic;truck;white
+7311385712;birmingham;16990;2004;ford;super duty f-250;good;8 cylinders;gas;213563;automatic;truck;black
+7311385335;birmingham;29990;2011;ford;super duty f-450 drw;good;8 cylinders;diesel;137481;automatic;truck;white
+7311384865;birmingham;42990;2008;chevrolet;cc4500;good;8 cylinders;diesel;67159;automatic;truck;red
+7311384822;birmingham;33990;2007;chevrolet;cc4500;good;8 cylinders;gas;77581;automatic;truck;white
+7311384837;birmingham;29990;2015;ford;super duty f-250 srw;good;8 cylinders;diesel;169564;automatic;truck;white
+7311384869;birmingham;49990;2015;ford;super duty f-550 drw;good;8 cylinders;diesel;152701;automatic;truck;white
+7311384750;birmingham;34990;2015;ford;transit cutaway;good;6 cylinders;gas;100058;automatic;truck;white
+7311384526;birmingham;26990;2016;chevrolet;express commercial cutaway;good;8 cylinders;gas;75734;automatic;truck;white
+7311383740;birmingham;22990;2004;gmc;tc5500;good;6 cylinders;diesel;119091;automatic;truck;white
+7311383554;birmingham;28490;2008;mitsubishi;fuso fe145;good;4 cylinders;diesel;70643;automatic;truck;green
+7311383464;birmingham;25990;2011;ford;econoline commercial cutaway;good;8 cylinders;gas;105371;automatic;bus;blue
+7311383424;birmingham;37990;2012;ford;super duty f-550 drw;good;8 cylinders;diesel;108061;automatic;truck;black
+7311383342;birmingham;16990;2008;ford;super duty f-350 srw;good;8 cylinders;gas;147476;automatic;truck;white
+7311383322;birmingham;20990;2010;ram;2500;good;8 cylinders;gas;121850;automatic;truck;black
+7311383338;birmingham;26990;2008;chevrolet;cc4500;good;8 cylinders;gas;100921;automatic;truck;white
+7311383276;birmingham;62990;2016;ford;super duty f-550 drw;good;8 cylinders;diesel;40193;automatic;truck;red
+7311383252;birmingham;35990;2014;ford;super duty f-450 drw;good;10 cylinders;gas;42213;automatic;truck;white
+7311382048;birmingham;29990;2012;toyota;tacoma double cab pickup;good;6 cylinders;gas;43182;other;truck;white
+7311381850;birmingham;27490;2006;mitsubishi;fuso fe145;good;4 cylinders;diesel;96626;automatic;truck;green
+7311381827;birmingham;16990;2004;ford;super duty f-250;good;8 cylinders;gas;213563;automatic;truck;black
+7311381767;birmingham;33990;2014;ford;super duty f-550 drw;good;8 cylinders;diesel;136250;automatic;truck;white
+7311381723;birmingham;24990;2009;chevrolet;3500 lcf gas;good;8 cylinders;gas;72789;automatic;truck;white
+7311381694;birmingham;25990;2006;chevrolet;express cargo van;good;8 cylinders;gas;73360;automatic;truck;white
+7311381686;birmingham;24990;2017;gmc;savana commercial cutaway;good;8 cylinders;gas;136965;automatic;truck;white
+7311381687;birmingham;29990;2011;ford;super duty f-450 drw;good;8 cylinders;diesel;137481;automatic;truck;white
+7311381690;birmingham;24990;2007;ford;super duty f-450 drw;good;10 cylinders;gas;46463;automatic;truck;white
+7311381692;birmingham;22990;2010;ford;econoline commercial cutaway;good;10 cylinders;gas;121911;automatic;truck;white
+7311381659;birmingham;20990;2006;chevrolet;express cargo van;good;8 cylinders;diesel;134296;automatic;truck;white
+7311381664;birmingham;33990;2016;chevrolet;express commercial cutaway;good;8 cylinders;gas;12398;automatic;truck;white
+7311381460;birmingham;22990;2004;gmc;tc5500;good;6 cylinders;diesel;119091;automatic;truck;white
+7311381424;birmingham;27990;2008;ford;econoline cargo van;good;8 cylinders;gas;83459;automatic;truck;white
+7311380284;birmingham;32990;2011;chevrolet;silverado 3500hd;good;8 cylinders;gas;22076;automatic;truck;black
+7311380183;birmingham;59990;2017;ford;super duty f-550 drw;good;8 cylinders;diesel;31337;automatic;truck;white
+7311380128;birmingham;31990;2006;ford;super duty f-550 drw;good;8 cylinders;diesel;59429;automatic;SUV;red
+7311371151;birmingham;20888;2015;mercedes-benz;benz ml 450;excellent;6 cylinders;gas;111261;automatic;SUV;silver
+7311367867;birmingham;31888;2015;gmc;1500 yukon slt;good;8 cylinders;gas;109947;automatic;SUV;white
+7311365259;birmingham;10888;2014;kia;sorento lx;good;4 cylinders;gas;121259;automatic;pickup;red
+7311360610;birmingham;26900;2019;ford;f150 regular cab xl;excellent;6 cylinders;gas;8176;automatic;SUV;white
+7311350665;birmingham;6950;1994;jeep;wrangler;excellent;4 cylinders;gas;160000;manual;SUV;green
+7311346662;birmingham;40888;2020;jeep;gladiator;like new;6 cylinders;gas;27955;automatic;SUV;black
+7311345301;birmingham;14995;2007;jeep;wrangler unlimited sahara;good;6 cylinders;gas;163169;automatic;other;black
+7311339049;birmingham;32990;2011;bmw;z4 sdrive35is roadster 2d;good;6 cylinders;other;45858;other;bus;red
+7311319559;birmingham;19997;2009;dodge;challenger;excellent;8 cylinders;gas;83491;automatic;sedan;black
+7311319413;birmingham;16589;2018;ford;fusion;excellent;4 cylinders;gas;84867;automatic;convertible;black
+7311319201;birmingham;21500;2013;jeep;wrangler;excellent;6 cylinders;gas;78270;manual;SUV;black
+7311319080;birmingham;23997;2017;infiniti;qx70;excellent;6 cylinders;gas;84416;automatic;SUV;black
+7311318941;birmingham;22510;2015;mercedes-benz;m-class;excellent;6 cylinders;gas;74909;automatic;SUV;black
+7311302496;birmingham;1977;2003;mitsubishi;lancer;fair;6 cylinders;gas;238757;manual;pickup;black
+7311269291;birmingham;31990;2018;ram;1500 quad cab harvest pickup;good;6 cylinders;gas;27426;other;sedan;white
+7311244435;birmingham;8990;2008;ford;edge;fair;6 cylinders;gas;152772;automatic;sedan;white
+7311235901;birmingham;10000;2015;chrysler;200;like new;4 cylinders;gas;73381;automatic;sedan;white
+7311184072;birmingham;4000;2014;chevrolet;sonic lt;like new;4 cylinders;gas;135000;manual;sedan;silver
+7311079888;birmingham;5980;2013;jeep;patriot;fair;6 cylinders;gas;106000;automatic;bus;black
+7311043058;birmingham;500;2021;;SPECIAL FINANCE PROGRAM 2020;fair;other;other;1400;other;SUV;green
+7311042920;birmingham;40888;2020;jeep;gladiator;like new;6 cylinders;gas;27955;automatic;sedan;black
+7311033661;birmingham;14888;2007;jeep;wrangler unlimited sahara;good;6 cylinders;gas;163169;automatic;hatchback;black
+7310967777;birmingham;22990;2017;infiniti;qx50 sport utility 4d;good;6 cylinders;other;21297;other;sedan;black
+7310961550;birmingham;4425;2004;honda;accord sedan;fair;4 cylinders;gas;192275;automatic;pickup;black
+7310943268;birmingham;33950;2011;ford;f-250 super duty lariat cre;fair;6 cylinders;other;171524;automatic;van;black
+7310937354;birmingham;69950;2012;ford;f750 four car hauler rollba;good;6 cylinders;diesel;267001;automatic;pickup;white
+7310928510;birmingham;59950;2019;ford;f550 super duty rollback/wr;good;6 cylinders;gas;88140;automatic;pickup;silver
+7310925722;birmingham;9995;1986;ford;f-150 regular cab short bed;good;6 cylinders;gas;46789;automatic;sedan;red
+7310924243;birmingham;25590;2017;infiniti;q70 3.7 sedan 4d;good;6 cylinders;other;66632;other;pickup;blue
+7310922777;birmingham;3995;1989;dodge;dakota regular cab long be;excellent;6 cylinders;gas;101958;automatic;van;grey
+7310912188;birmingham;15897;2016;ford;transit connect wagon;excellent;4 cylinders;gas;71097;other;SUV;yellow
+7310912043;birmingham;12897;2016;buick;encore;good;4 cylinders;gas;83501;other;truck;black
+7310890361;birmingham;6950;1998;ford;f150 xlt;excellent;8 cylinders;gas;206000;automatic;sedan;green
+7310878803;birmingham;3450;2006;toyota;corolla;good;4 cylinders;gas;206058;automatic;truck;red
+7310866053;birmingham;32590;2013;lexus;ls 460 sedan 4d;good;8 cylinders;gas;30384;other;other;black
+7310866001;birmingham;23590;2018;mitsubishi;outlander phev gt;good;6 cylinders;other;48933;other;coupe;white
+7310824428;birmingham;33590;2017;cadillac;xt5 platinum sport;good;6 cylinders;gas;28891;other;hatchback;black
+7310797034;birmingham;18877;2017;toyota;camry;good;6 cylinders;gas;52822;automatic;SUV;silver
+7310757953;birmingham;5500;2006;cadillac;cts;excellent;4 cylinders;gas;111111;other;sedan;grey
+7310754731;birmingham;2700;2004;nissan;maxima;good;6 cylinders;gas;200000;automatic;sedan;white
+7310459061;birmingham;6950;2011;nissan;quest;excellent;6 cylinders;gas;54443;automatic;sedan;black
+7310453788;birmingham;3650;2008;kia;rio;excellent;4 cylinders;gas;115124;automatic;hatchback;silver
+7310434701;birmingham;24990;2014;acura;mdx sh-awd sport utility;good;6 cylinders;gas;52396;automatic;sedan;silver
+7310413137;birmingham;1700;2002;buick;lesabre;good;6 cylinders;gas;171690;automatic;sedan;black
+7310403124;birmingham;16897;2018;hyundai;elantra;good;4 cylinders;gas;71224;other;truck;black
+7310370273;birmingham;2600;2000;buick;lesabre;good;6 cylinders;gas;212061;automatic;SUV;blue
+7310357656;birmingham;23990;2014;acura;mdx sh-awd sport utility;good;6 cylinders;gas;62390;other;pickup;black
+7310358587;birmingham;21790;2016;chevrolet;silverado 1500 lt;good;6 cylinders;gas;100662;automatic;other;white
+7310357627;birmingham;38590;2019;acura;mdx sh-awd w/technology;good;6 cylinders;other;14906;other;sedan;white
+7310325951;birmingham;39590;2019;acura;mdx sh-awd w/technology;good;6 cylinders;gas;8919;other;sedan;black
+7310284575;birmingham;15977;2016;jeep;cherokee;excellent;6 cylinders;gas;48322;automatic;SUV;black
+7310253814;birmingham;32990;2018;acura;mdx sh-awd w/technology;good;6 cylinders;gas;31967;other;SUV;brown
+7310082211;birmingham;3495;2008;chevrolet;malibu;excellent;6 cylinders;gas;157305;automatic;van;black
+7310034215;birmingham;18990;2010;ford;econoline cargo van;good;8 cylinders;gas;32988;automatic;sedan;white
+7309972050;birmingham;14900;2011;mercedes-benz;benz s550;good;6 cylinders;gas;113907;automatic;truck;black
+7309953468;birmingham;15900;2017;nissan;frontier sv;good;4 cylinders;gas;28650;automatic;SUV;white
+7309953039;birmingham;13900;2013;honda;cr-v lx;good;4 cylinders;gas;86933;automatic;SUV;blue
+7309951979;birmingham;9800;2008;mazda;cx-9 touring;good;6 cylinders;gas;138266;automatic;sedan;white
+7309951024;birmingham;7000;2004;jaguar;xjr s;good;8 cylinders;gas;135185;automatic;sedan;red
+7309911243;birmingham;17590;2015;kia;soul ! wagon 4d;good;6 cylinders;gas;25491;other;SUV;green
+7309911166;birmingham;33990;2019;acura;rdx sh-awd sport utility;good;6 cylinders;gas;11902;other;sedan;red
+7309902142;birmingham;19850;2013;bmw;750li;good;6 cylinders;gas;90822;other;SUV;black
+7309875648;birmingham;26000;1973;chevrolet;k5 blazer;excellent;6 cylinders;gas;67013;automatic;sedan;black
+7309868933;birmingham;33990;2020;alfa-romeo;romeo giulia sedan 4d;good;6 cylinders;gas;9711;other;sedan;white
+7309868912;birmingham;16990;2018;hyundai;sonata se sedan 4d;good;6 cylinders;gas;31871;other;sedan;red
+7309848224;birmingham;3800;2000;toyota;camry;excellent;4 cylinders;gas;164814;automatic;SUV;black
+7309840433;birmingham;11500;2011;bmw;328i;excellent;4 cylinders;gas;126000;automatic;SUV;black
+7309757858;birmingham;19477;2015;jeep;grand cherokee;excellent;6 cylinders;gas;108819;automatic;sedan;black
+7309710187;birmingham;2700;2004;nissan;maxima;good;6 cylinders;gas;200000;automatic;sedan;white
+7309598519;birmingham;3450;2007;toyota;prius;excellent;4 cylinders;;263198;automatic;truck;grey
+7309596141;birmingham;32500;2019;ford;f-150;like new;6 cylinders;gas;7700;automatic;truck;grey
+7309584251;birmingham;6900;2008;nissan;rogue sl;excellent;4 cylinders;gas;110000;automatic;coupe;black
+7309584112;birmingham;26900;1994;nissan;skyline gts;good;4 cylinders;gas;59384;manual;sedan;black
+7309431761;birmingham;27995;2012;ford;f350 super duty;good;6 cylinders;gas;45822;automatic;coupe;white
+7309386327;birmingham;19950;2008;jeep;wrangler;excellent;6 cylinders;gas;;automatic;sedan;black
+7309379404;birmingham;4400;2006;buick;lacrosse;good;6 cylinders;gas;124201;automatic;other;white
+7309365192;birmingham;31990;2018;audi;q5 premium sport utility 4d;good;6 cylinders;gas;19179;other;convertible;black
+7309344531;birmingham;5500;1988;mercedes-benz;560;fair;6 cylinders;diesel;177607;manual;sedan;white
+7309301508;birmingham;13995;2015;nissan;nv200;good;6 cylinders;gas;86580;automatic;coupe;white
+7309285507;birmingham;36590;2019;infiniti;q60 3.0t luxe coupe 2d;good;6 cylinders;other;18605;other;sedan;blue
+7309285639;birmingham;4500;2011;ford;fusion;good;4 cylinders;gas;167870;automatic;SUV;blue
+7309264329;birmingham;7500;2009;ram;1500;good;8 cylinders;gas;131338;automatic;sedan;brown
+7309250475;birmingham;29590;2017;jaguar;xf 20d premium sedan 4d;good;6 cylinders;gas;15530;other;SUV;black
+7309241789;birmingham;11700;2000;ford;f-350;good;8 cylinders;diesel;274000;manual;other;white
+7309189157;birmingham;14977;2013;toyota;highlander;good;6 cylinders;gas;123804;automatic;hatchback;white
+7309151528;birmingham;44800;2015;chevrolet;silverado 2500 hd;excellent;8 cylinders;diesel;108000;automatic;truck;black
+7309140128;birmingham;8950;2011;ford;f-150;excellent;6 cylinders;gas;164000;automatic;pickup;white
+7309122163;birmingham;26990;2016;toyota;tacoma;fair;6 cylinders;gas;102089;automatic;convertible;grey
+7309067136;birmingham;3800;2005;chrysler;pt cruiser gt;good;4 cylinders;gas;135034;automatic;SUV;silver
+7309048982;birmingham;18500;2009;jeep;wrangler unlimited x;good;4 cylinders;gas;76641;automatic;wagon;silver
+7309034279;birmingham;4100;2010;hyundai;elantra touring;fair;4 cylinders;gas;130206;manual;van;grey
+7309021666;birmingham;41000;2019;mini;t camper van;excellent;4 cylinders;gas;29288;automatic;sedan;black
+7308983367;birmingham;2300;1997;buick;lesabre;fair;6 cylinders;gas;201566;automatic;sedan;green
+7308973381;birmingham;300;1999;saturn;sl;fair;4 cylinders;gas;265000;automatic;sedan;purple
+7308969949;birmingham;5980;2005;acura;tl;good;6 cylinders;gas;179721;automatic;wagon;silver
+7308952053;birmingham;6980;2013;nissan;juke;good;4 cylinders;gas;170273;automatic;SUV;red
+7308932276;birmingham;5980;2006;nissan;murano;good;6 cylinders;gas;178388;automatic;sedan;white
+7308921874;birmingham;3500;2009;hyundai;accent;good;4 cylinders;gas;111387;automatic;sedan;white
+7308919338;birmingham;2500;1976;chevrolet;malibu classic;good;6 cylinders;gas;100;automatic;SUV;black
+7308911222;birmingham;6980;2011;kia;sorento;good;6 cylinders;gas;182321;other;sedan;black
+7308888798;birmingham;6980;2008;toyota;avalon;good;6 cylinders;gas;158888;automatic;SUV;silver
+7308865425;birmingham;6480;2012;jeep;compass;good;4 cylinders;gas;180096;manual;pickup;white
+7308854113;birmingham;36590;2019;gmc;sierra 1500 limited double;good;8 cylinders;gas;14222;other;sedan;blue
+7308848055;birmingham;4250;2003;ford;crown victoria;good;8 cylinders;gas;131282;automatic;pickup;red
+7308844860;birmingham;11700;2007;chevrolet;silverado classic;good;8 cylinders;gas;155000;automatic;sedan;black
+7308842482;birmingham;4980;2007;ford;edge;good;6 cylinders;gas;178095;automatic;pickup;white
+7308819618;birmingham;29590;2013;gmc;sierra 1500 extended cab slt;good;8 cylinders;gas;37888;other;sedan;silver
+7308819340;birmingham;7280;2014;nissan;altima;good;4 cylinders;gas;135412;automatic;SUV;silver
+7308787250;birmingham;58500;1933;ford;coupe;good;6 cylinders;gas;5830;automatic;coupe;black
+7308785111;birmingham;35590;2011;dodge;challenger srt8 coupe 2d;good;8 cylinders;gas;16796;other;other;green
+7308784873;birmingham;46990;2014;chevrolet;corvette stingray;excellent;8 cylinders;gas;16966;other;sedan;white
+7308773594;birmingham;3999;2006;pontiac;grand prix;excellent;6 cylinders;gas;207238;automatic;SUV;white
+7308773221;birmingham;5480;2013;chevrolet;captiva sport;fair;4 cylinders;gas;182711;automatic;pickup;grey
+7308738418;birmingham;4000;1958;ford;pick up;good;8 cylinders;gas;110000;automatic;sedan;black
+7308728202;birmingham;6895;1995;gmc;sonoma;good;6 cylinders;gas;186500;automatic;bus;red
+7308717036;birmingham;14141;2017;ram;promaster city cargo van;like new;4 cylinders;gas;102386;automatic;sedan;white
+7308711653;birmingham;18777;2016;volvo;s60 inscription platinum;like new;4 cylinders;gas;38561;automatic;sedan;silver
+7308708711;birmingham;5600;2013;dodge;dart;good;4 cylinders;gas;88000;manual;pickup;red
+7308579912;birmingham;28500;2015;chrysler;town and country tourin;excellent;6 cylinders;gas;49319;automatic;sedan;black
+7308579144;birmingham;4250;2007;chrysler;pt cruiser;excellent;4 cylinders;gas;94093;automatic;SUV;red
+7308554036;birmingham;3500;2006;ford;freestyle;fair;6 cylinders;gas;214775;automatic;SUV;blue
+7308522231;birmingham;3850;2003;dodge;durango;fair;8 cylinders;gas;215604;automatic;sedan;blue
+7308507172;birmingham;20900;2016;toyota;avalon;excellent;6 cylinders;gas;100318;automatic;SUV;silver
+7308504921;birmingham;5790;2008;cadillac;srx;good;6 cylinders;gas;189294;automatic;wagon;white
+7308485678;birmingham;4300;2012;kia;soul;good;4 cylinders;gas;174053;automatic;SUV;silver
+7308485634;birmingham;35000;1978;toyota;land cruiser;good;8 cylinders;gas;1000000;manual;SUV;red
+7308485607;birmingham;6480;2008;buick;enclave;good;6 cylinders;gas;183858;automatic;wagon;black
+7308464555;birmingham;5940;2011;kia;soul;good;4 cylinders;gas;163385;manual;pickup;white
+7308450063;birmingham;28500;2019;gmc;acadia;good;6 cylinders;gas;43961;automatic;SUV;black
+7308449579;birmingham;23900;2017;jeep;grand cherokee;good;6 cylinders;gas;50543;automatic;SUV;black
+7308441758;birmingham;4980;2011;nissan;murano;excellent;6 cylinders;gas;199524;manual;sedan;silver
+7308441693;birmingham;3450;2007;ford;taurus;fair;6 cylinders;gas;164421;automatic;SUV;black
+7308417863;birmingham;8980;2011;jeep;grand cherokee;excellent;6 cylinders;;173787;manual;pickup;silver
+7308392571;birmingham;3980;2002;ford;f-150;good;8 cylinders;gas;197070;manual;sedan;white
+7308392468;birmingham;2800;2006;ford;taurus;excellent;6 cylinders;gas;230108;automatic;pickup;white
+7308367198;birmingham;27900;2014;ram;3500;good;8 cylinders;gas;66788;automatic;sedan;white
+7308365086;birmingham;5480;2013;chevrolet;sonic;good;4 cylinders;gas;121954;automatic;van;red
+7308337198;birmingham;4980;2010;dodge;grand caravan;good;6 cylinders;gas;134819;manual;SUV;red
+7308337068;birmingham;4450;2004;cadillac;srx;good;6 cylinders;gas;144850;automatic;SUV;white
+7308299773;birmingham;6500;1995;ford;mustang;excellent;8 cylinders;gas;119000;automatic;other;white
+7308295742;birmingham;33990;2018;jeep;wrangler unlimited willys;good;6 cylinders;gas;34636;other;other;white
+7308295643;birmingham;28590;2017;jeep;wrangler sport suv 2d;good;6 cylinders;gas;37218;other;sedan;black
+7308281284;birmingham;3999;2006;honda;accord sedan;excellent;4 cylinders;gas;253076;automatic;SUV;silver
+7308280968;birmingham;4980;2010;chevrolet;traverse;fair;6 cylinders;gas;208122;manual;pickup;silver
+7308238538;birmingham;31990;2016;chevrolet;silverado 1500;fair;8 cylinders;;107597;automatic;SUV;white
+7308232383;birmingham;39590;2018;jeep;wrangler unlimited all new;good;6 cylinders;gas;21893;other;sedan;silver
+7308099881;birmingham;7900;1985;mercury;capri;good;6 cylinders;gas;89312;automatic;convertible;black
+7308062041;birmingham;9000;1976;alfa-romeo;romeo spider;excellent;4 cylinders;gas;88627;manual;sedan;white
+7308055231;birmingham;6000;1957;chevrolet;belair;good;6 cylinders;gas;80000;manual;sedan;black
+7308031579;birmingham;4425;2004;honda;accord sedan;good;4 cylinders;gas;192275;automatic;SUV;black
+7308021785;birmingham;13500;2000;jeep;wrangler sport;good;6 cylinders;gas;149980;automatic;sedan;blue
+7307995502;birmingham;2999;2005;ford;taurus;good;6 cylinders;gas;226797;automatic;SUV;white
+7307965551;birmingham;19500;2013;infiniti;qx 56;like new;8 cylinders;gas;119895;automatic;sedan;grey
+7307956167;birmingham;3399;2006;buick;lacrosse;excellent;6 cylinders;gas;160218;automatic;SUV;blue
+7307919917;birmingham;27995;2017;nissan;nv2500 hd cargo;excellent;6 cylinders;gas;48769;automatic;sedan;white
+7307886134;birmingham;24995;2012;ford;f250 xl super duty;fair;6 cylinders;gas;52377;automatic;convertible;grey
+7307884060;birmingham;19950;2009;porsche;boxster;excellent;6 cylinders;gas;80190;automatic;convertible;red
+7307883751;birmingham;13950;2011;mazda;mx-5 miata grand touring;excellent;4 cylinders;gas;138235;automatic;truck;red
+7307883318;birmingham;45950;2014;gmc;sierra 2500hd denali;excellent;8 cylinders;diesel;154289;automatic;convertible;black
+7307882710;birmingham;12950;2007;mazda;mx-5 miata touring;excellent;4 cylinders;gas;90610;automatic;SUV;black
+7307882262;birmingham;12950;2011;honda;crv ex;excellent;4 cylinders;gas;87994;automatic;truck;silver
+7307881901;birmingham;22950;2014;ford;f150 supercrew cab xlt;excellent;8 cylinders;gas;166380;automatic;convertible;black
+7307881605;birmingham;10950;2007;mazda;miata touring;good;4 cylinders;gas;57323;automatic;truck;blue
+7307881286;birmingham;16950;2007;toyota;tacoma double cab;good;6 cylinders;gas;156792;automatic;convertible;white
+7307874195;birmingham;26875;1999;chevrolet;corvette;good;6 cylinders;gas;8902;automatic;coupe;silver
+7307873798;birmingham;46875;2015;chevrolet;corvette;like new;6 cylinders;gas;29337;manual;convertible;white
+7307861270;birmingham;199;2017;dodge;charger;like new;6 cylinders;gas;21737;automatic;sedan;black
+7307859883;birmingham;4499;2010;ford;crown victoria;good;8 cylinders;gas;138895;automatic;bus;white
+7307807487;birmingham;2200;2001;mitsubishi;montero sport;good;6 cylinders;gas;289419;automatic;hatchback;black
+7307751877;birmingham;2600;2000;buick;lesabre;fair;6 cylinders;gas;212061;automatic;sedan;blue
+7307722757;birmingham;6599;2010;toyota;sienna xle;good;6 cylinders;gas;174000;automatic;pickup;brown
+7307662967;birmingham;18477;2011;toyota;4runner;like new;6 cylinders;gas;172921;automatic;sedan;black
+7307624585;birmingham;2700;2004;nissan;maxima;good;6 cylinders;gas;200000;automatic;sedan;white
+7307598882;birmingham;26495;2017;mercedes-benz;c-class;good;4 cylinders;gas;27443;automatic;other;white
+7307511064;birmingham;1950;1999;dodge;caravan;good;6 cylinders;;227794;automatic;SUV;black
+7307500655;birmingham;9800;2010;cadillac;srx luxury;good;6 cylinders;gas;132815;automatic;sedan;black
+7307496138;birmingham;5600;2008;toyota;camry;good;4 cylinders;diesel;133244;automatic;coupe;grey
+7307385521;birmingham;12995;2016;chrysler;200;excellent;6 cylinders;gas;72754;automatic;convertible;black
+7307297248;birmingham;27900;2018;ford;f250;excellent;8 cylinders;gas;159911;automatic;sedan;white
+7307259540;birmingham;16500;2018;ford;fusion;excellent;4 cylinders;gas;58059;other;sedan;red
+7307259264;birmingham;18897;2012;bmw;535i;excellent;6 cylinders;gas;105766;other;pickup;grey
+7307252414;birmingham;32990;2018;ford;f150 super cab xlt pickup;good;6 cylinders;other;11360;other;other;white
+7307246197;birmingham;46990;2020;gmc;yukon slt sport utility 4d;good;8 cylinders;gas;28552;other;SUV;white
+7307246045;birmingham;21990;2017;gmc;acadia sle-1 sport utility;good;6 cylinders;gas;48959;other;pickup;white
+7307246117;birmingham;33590;2020;chevrolet;silverado 1500 double;good;6 cylinders;other;15591;other;SUV;white
+7307225699;birmingham;3799;2002;chevrolet;tahoe;good;8 cylinders;gas;200121;automatic;hatchback;white
+7307188227;birmingham;21990;2014;lincoln;navigator;good;8 cylinders;gas;106148;automatic;pickup;black
+7307140075;birmingham;13477;2008;chevrolet;tahoe;good;6 cylinders;gas;148789;automatic;SUV;silver
+7307082685;birmingham;2700;2004;nissan;maxima;good;6 cylinders;gas;200000;automatic;pickup;white
+7307067929;birmingham;22900;2018;nissan;frontier;good;4 cylinders;gas;14570;automatic;truck;custom
+7307067889;birmingham;30900;2015;chevrolet;silverado 1500;good;8 cylinders;gas;114800;automatic;truck;custom
+7307067844;birmingham;24900;2015;chevrolet;silverado 1500;good;8 cylinders;gas;119569;automatic;SUV;white
+7307050330;birmingham;9250;2007;gmc;yukon slt;good;8 cylinders;gas;181000;automatic;SUV;black
+7307048623;birmingham;7950;2007;chevrolet;tahoe lt;good;8 cylinders;gas;208000;automatic;truck;grey
+7307034122;birmingham;6800;2003;ford;f-150;excellent;8 cylinders;gas;190000;automatic;sedan;white
+7307029274;birmingham;11500;2012;kia;optima;excellent;6 cylinders;gas;64000;automatic;sedan;grey
+7307012479;birmingham;3500;2003;honda;accord;good;4 cylinders;gas;201580;automatic;sedan;grey
+7306952160;birmingham;10000;1987;chevrolet;caprice;good;6 cylinders;gas;200000;automatic;wagon;black
+7306941826;birmingham;4100;2010;hyundai;elantra touring;excellent;4 cylinders;gas;130206;manual;truck;grey
+7306898100;birmingham;49990;2015;ford;super duty f-550 drw;good;10 cylinders;gas;41631;automatic;truck;green
+7306898032;birmingham;38990;2013;chevrolet;express commercial cutaway;good;8 cylinders;gas;134000;automatic;truck;white
+7306898022;birmingham;39990;2013;chevrolet;express commercial cutaway;good;8 cylinders;gas;119000;automatic;sedan;white
+7306897838;birmingham;10990;2009;lexus;es 350;good;6 cylinders;gas;102078;automatic;truck;silver
+7306897830;birmingham;22990;2012;ford;super duty f-250 srw;good;8 cylinders;gas;114733;automatic;truck;white
+7306897777;birmingham;38990;2016;mitsubishi;fuso fe180;good;4 cylinders;diesel;33474;automatic;truck;white
+7306897746;birmingham;39990;2016;gmc;savana commercial cutaway;good;8 cylinders;gas;75649;automatic;wagon;white
+7306897755;birmingham;8990;2013;chevrolet;equinox;good;4 cylinders;gas;127100;automatic;truck;black
+7306897720;birmingham;49990;2013;ford;super duty f-550 drw;good;8 cylinders;diesel;98689;automatic;truck;white
+7306897152;birmingham;21990;2018;nissan;maxima;good;6 cylinders;gas;25500;automatic;truck;white
+7306897105;birmingham;24990;2008;ford;econoline cargo van;good;8 cylinders;gas;139567;automatic;truck;white
+7306897083;birmingham;26990;2012;chevrolet;express commercial cutaway;good;8 cylinders;gas;108439;automatic;truck;white
+7306896767;birmingham;26990;2011;ford;super duty f-550 drw;good;8 cylinders;diesel;147797;automatic;truck;white
+7306896752;birmingham;9990;1991;honda;acty;good;3 cylinders;gas;38700;other;truck;white
+7306896691;birmingham;47990;2014;ford;super duty f-550 drw;good;8 cylinders;diesel;39253;automatic;truck;white
+7306896660;birmingham;22990;2016;ford;econoline commercial cutaway;good;8 cylinders;gas;181410;automatic;truck;white
+7306896584;birmingham;34990;2011;ford;super duty f-450 drw;good;8 cylinders;diesel;118787;automatic;truck;white
+7306896408;birmingham;23990;2007;chevrolet;silverado 3500 classic;good;8 cylinders;gas;32853;automatic;truck;white
+7306895710;birmingham;26990;2016;ford;super duty f-750 straight frame;good;8 cylinders;diesel;201035;automatic;truck;white
+7306895658;birmingham;34990;2001;ford;super duty f-350 drw;good;8 cylinders;diesel;70200;automatic;truck;custom
+7306895647;birmingham;51990;2013;ram;5500;good;6 cylinders;diesel;129633;other;truck;white
+7306895581;birmingham;39990;2017;ford;f-650 sd;good;10 cylinders;gas;68655;automatic;truck;white
+7306895551;birmingham;31990;2013;ford;super duty f-250 srw;good;8 cylinders;gas;101335;automatic;truck;white
+7306895561;birmingham;36490;2018;ford;e-series cutaway;good;10 cylinders;gas;16535;automatic;truck;white
+7306895359;birmingham;20990;2008;ford;super duty f-350 srw;good;8 cylinders;gas;107040;automatic;sedan;white
+7306872640;birmingham;3000;2005;buick;lacrosse;fair;6 cylinders;gas;191064;automatic;truck;silver
+7306863718;birmingham;35000;1953;ford;f-100;excellent;8 cylinders;gas;54000;manual;van;blue
+7306854164;birmingham;34500;2019;ford;transit;like new;6 cylinders;gas;7646;automatic;van;white
+7306854149;birmingham;16900;2014;ford;transit connect;excellent;4 cylinders;gas;35173;automatic;van;white
+7306854137;birmingham;32700;2019;ford;transit;like new;6 cylinders;gas;13646;automatic;van;white
+7306854140;birmingham;32900;2019;ford;transit;like new;6 cylinders;gas;6735;automatic;van;white
+7306854119;birmingham;34800;2019;ford;transit;like new;6 cylinders;gas;31020;automatic;van;white
+7306793614;birmingham;2300;1997;buick;lesabre;fair;6 cylinders;gas;201566;automatic;sedan;green
+7306792875;birmingham;4950;2002;acura;rl;excellent;6 cylinders;gas;201000;automatic;SUV;black
+7306781109;birmingham;24990;2013;lexus;rx 350 sport utility 4d;good;6 cylinders;gas;27623;other;SUV;brown
+7306782082;birmingham;4650;2002;chevrolet;trailblazer;excellent;6 cylinders;gas;139000;automatic;hatchback;black
+7306766642;birmingham;3950;2003;honda;civic ex;excellent;4 cylinders;gas;236890;automatic;SUV;black
+7306741594;birmingham;11897;2013;gmc;terrain;fair;4 cylinders;gas;166458;other;SUV;grey
+7306741450;birmingham;14897;2012;jeep;grand cherokee;fair;6 cylinders;gas;112510;other;other;silver
+7306684832;birmingham;34995;2017;ford;f250 sd xlt;fair;6 cylinders;gas;138052;automatic;SUV;white
+7306683018;birmingham;27590;2017;cadillac;xt5 luxury sport;good;6 cylinders;other;21360;other;sedan;silver
+7306670478;birmingham;50990;2017;mercedes-benz;s-class;excellent;8 cylinders;gas;68643;automatic;truck;black
+7306668118;birmingham;29950;2014;gmc;sierra 1500;excellent;8 cylinders;gas;139029;automatic;convertible;black
+7306623081;birmingham;3977;2002;volvo;s80;excellent;6 cylinders;gas;114419;automatic;bus;silver
+7306593117;birmingham;32590;2013;lexus;ls 460 l sedan 4d;good;8 cylinders;gas;60271;automatic;sedan;black
+7306588508;birmingham;2700;2004;nissan;maxima;good;6 cylinders;gas;200000;automatic;sedan;white
+7306565136;birmingham;32990;2013;tesla;model s;excellent;6 cylinders;electric;69961;automatic;sedan;white
+7306472445;birmingham;9800;2012;kia;soul;good;4 cylinders;gas;76117;automatic;pickup;white
+7306469701;birmingham;19900;2004;chevrolet;ssr;good;8 cylinders;gas;72333;automatic;SUV;silver
+7306423021;birmingham;6500;2011;toyota;camry xle;good;6 cylinders;gas;214000;automatic;sedan;black
+7306356310;birmingham;3500;2009;hyundai;accent;excellent;4 cylinders;gas;111387;automatic;truck;white
+7306107999;birmingham;4777;2007;kia;sedona;excellent;6 cylinders;gas;127087;automatic;truck;blue
+7306103912;birmingham;39500;2008;ford;f-650;like new;6 cylinders;diesel;13158;manual;hatchback;white
+7306002775;birmingham;7200;2014;hyundai;sonata;excellent;6 cylinders;gas;101000;automatic;pickup;black
+7305965793;birmingham;12900;2013;nissan;frontier s king cab;good;4 cylinders;gas;47751;manual;sedan;silver
+7305965022;birmingham;3999;2006;pontiac;grand prix;fair;6 cylinders;gas;207238;automatic;pickup;white
+7305938792;birmingham;4795;2001;chevrolet;silverado;excellent;6 cylinders;gas;141005;automatic;van;black
+7305909848;birmingham;3500;2005;honda;odyssey;excellent;6 cylinders;gas;197742;automatic;other;silver
+7305884251;birmingham;4500;2012;kia;soul;like new;6 cylinders;gas;120000;automatic;sedan;silver
+7305848451;birmingham;6950;2008;honda;civic exl;excellent;4 cylinders;gas;135000;automatic;sedan;silver
+7305847041;birmingham;5950;2008;honda;accord;excellent;4 cylinders;gas;190000;automatic;sedan;grey
+7305846211;birmingham;6350;2013;toyota;corolla le;excellent;4 cylinders;gas;184000;automatic;sedan;silver
+7305838811;birmingham;3250;1997;ford;crown victoria;fair;8 cylinders;gas;210965;automatic;truck;red
+7305830482;birmingham;18900;2015;ford;f-150 supercab xlt;good;6 cylinders;gas;112165;automatic;sedan;white
+7305829824;birmingham;4900;2007;volkswagen;jetta gli fahrenheit;good;4 cylinders;gas;243730;manual;mini-van;yellow
+7305796028;birmingham;199;2017;dodge;charger;like new;6 cylinders;gas;21737;automatic;SUV;black
+7305755171;birmingham;57590;2018;cadillac;escalade esv luxury;good;8 cylinders;gas;28453;other;SUV;black
+7305754391;birmingham;4400;2003;lexus;rx 300;excellent;6 cylinders;gas;193058;automatic;convertible;blue
+7305748708;birmingham;5500;1988;mercedes-benz;560;fair;6 cylinders;diesel;177607;manual;sedan;white
+7305726265;birmingham;4800;2010;chevrolet;malibu ls;like new;4 cylinders;gas;155071;automatic;coupe;white
+7305700495;birmingham;45990;2018;mercedes-benz;e-class e 400;good;6 cylinders;other;29520;other;sedan;black
+7305679046;birmingham;19995;2015;ford;transit 250;excellent;6 cylinders;gas;150000;automatic;convertible;black
+7305668545;birmingham;2950;1963;chevrolet;corvair convertible;fair;4 cylinders;gas;1164;manual;sedan;blue
+7305665954;birmingham;4250;2007;chrysler;pt cruiser;excellent;4 cylinders;gas;94093;automatic;SUV;red
+7305652176;birmingham;27590;2018;alfa-romeo;romeo giulia sedan 4d;good;6 cylinders;gas;11007;other;sedan;white
+7305630376;birmingham;6500;2010;honda;accord;good;6 cylinders;gas;174000;automatic;pickup;grey
+7305625501;birmingham;33990;2016;chevrolet;silverado 1500;good;8 cylinders;;117895;automatic;truck;white
+7305614933;birmingham;17990;2018;ford;edge sel;like new;6 cylinders;gas;101000;automatic;sedan;blue
+7305614401;birmingham;11990;2011;audi;a3 tdi premium plus;like new;4 cylinders;diesel;70000;automatic;truck;black
+7305612757;birmingham;25990;2008;ram;2500 mega cab 4x4;like new;6 cylinders;diesel;172000;automatic;truck;red
+7305578187;birmingham;14777;2003;mercedes-benz;sl-class;good;6 cylinders;gas;87180;automatic;sedan;silver
+7305575903;birmingham;29500;2018;mercedes-benz;benz;like new;6 cylinders;gas;18000;manual;wagon;white
+7305542284;birmingham;14990;2019;kia;soul wagon 4d;good;6 cylinders;gas;7007;other;sedan;black
+7305531803;birmingham;3500;2001;buick;park avenue;good;6 cylinders;gas;1000;automatic;coupe;brown
+7305517981;birmingham;29500;2016;ford;mustang;good;8 cylinders;gas;36772;automatic;sedan;blue
+7305410023;birmingham;3900;1977;ford;f-150;good;6 cylinders;gas;100000;manual;SUV;black
+7305386288;birmingham;3500;2006;ford;freestyle;good;6 cylinders;gas;214775;automatic;pickup;blue
+7305377226;birmingham;38000;2020;chevrolet;colorado crew cab lt;like new;4 cylinders;diesel;8932;automatic;sedan;white
+7305373718;birmingham;7980;2009;nissan;maxima;good;6 cylinders;gas;163837;automatic;sedan;grey
+7305355147;birmingham;5980;2010;ford;fusion;good;4 cylinders;gas;178753;manual;SUV;red
+7305335644;birmingham;6980;2010;nissan;pathfinder;good;6 cylinders;gas;186334;manual;SUV;grey
+7305325474;birmingham;3850;2003;dodge;durango;good;8 cylinders;gas;215604;automatic;SUV;blue
+7305293615;birmingham;5980;2009;buick;enclave;fair;6 cylinders;gas;160419;manual;pickup;silver
+7305271229;birmingham;3850;2004;nissan;titan;excellent;8 cylinders;gas;319746;automatic;sedan;red
+7305238032;birmingham;3800;2003;chrysler;pt cruiser gt;good;4 cylinders;gas;150000;automatic;SUV;black
+7305237464;birmingham;36590;2018;audi;q5 prestige sport utility;good;6 cylinders;gas;32409;other;SUV;red
+7305237407;birmingham;28990;2018;lincoln;mkx select sport utility;good;6 cylinders;gas;27343;other;SUV;black
+7305229359;birmingham;5800;2012;ford;escape;excellent;4 cylinders;gas;160000;automatic;sedan;silver
+7305221733;birmingham;4500;2006;honda;civic;good;4 cylinders;gas;170000;automatic;mini-van;white
+7305221156;birmingham;4200;2007;honda;odyssey;good;6 cylinders;gas;195000;automatic;SUV;green
+7305221147;birmingham;13400;2012;nissan;murano sl;like new;6 cylinders;gas;90255;automatic;truck;white
+7305220570;birmingham;15000;2003;volvo;vnl 780;good;6 cylinders;diesel;1000000;manual;truck;white
+7305218100;birmingham;5500;2008;ford;focus;excellent;6 cylinders;gas;115000;automatic;SUV;black
+7305217525;birmingham;5500;2009;jeep;patriot;good;6 cylinders;gas;158000;automatic;SUV;silver
+7305217058;birmingham;4500;2008;dodge;durango;excellent;8 cylinders;gas;190000;automatic;sedan;black
+7305165451;birmingham;25590;2017;jaguar;xf 20d premium sedan 4d;good;6 cylinders;other;27662;automatic;sedan;white
+7305165413;birmingham;35990;2019;bmw;5 series 530e xdrive;good;6 cylinders;gas;19260;other;other;white
+7305144996;birmingham;8500;1968;ford;fairlane ranchero;excellent;8 cylinders;gas;100000;automatic;sedan;green
+7305144788;birmingham;16990;2015;honda;accord sedan;like new;6 cylinders;gas;82023;automatic;coupe;white
+7305121999;birmingham;35990;2020;infiniti;q60 3.0t pure coupe 2d;good;6 cylinders;gas;8677;other;sedan;black
+7305111847;birmingham;30477;2016;chevrolet;tahoe;like new;6 cylinders;gas;98256;automatic;hatchback;red
+7305087629;birmingham;30990;2018;lexus;nx 300h sport utility 4d;good;6 cylinders;hybrid;27205;automatic;wagon;silver
+7305064413;birmingham;14395;2016;kia;soul;like new;4 cylinders;gas;32819;automatic;wagon;silver
+7305001218;birmingham;4300;2012;kia;soul;like new;4 cylinders;gas;174053;automatic;SUV;silver
+7304975226;birmingham;3650;2006;chevrolet;trailblazer;like new;6 cylinders;gas;184925;automatic;sedan;black
+7304939955;birmingham;34850;2017;nissan;titan xd pro 4x;good;8 cylinders;gas;50000;automatic;truck;black
+7304936759;birmingham;12500;2008;ford;ranger xlt;excellent;6 cylinders;gas;141345;automatic;sedan;grey
+7304933010;birmingham;6995;2011;volkswagen;jetta sel;excellent;5 cylinders;gas;172752;automatic;pickup;black
+7304930793;birmingham;18950;2010;ford;f150 lariat supercrew 4x4;good;8 cylinders;gas;151403;automatic;convertible;black
+7304928623;birmingham;12950;2005;bmw;z4;excellent;6 cylinders;gas;69586;automatic;sedan;white
+7304925415;birmingham;7480;2013;hyundai;sonata;fair;4 cylinders;gas;117271;automatic;SUV;blue
+7304922384;birmingham;4950;2011;ford;taurus se;fair;6 cylinders;gas;104244;automatic;SUV;black
+7304921716;birmingham;13950;2006;lexus;gx470;good;8 cylinders;gas;178790;automatic;sedan;black
+7304906285;birmingham;3650;2008;hyundai;elantra;excellent;4 cylinders;gas;137161;manual;SUV;grey
+7304896067;birmingham;9800;2007;chevrolet;tahoe;good;6 cylinders;gas;220780;automatic;sedan;silver
+7304888974;birmingham;27500;2018;acura;tlx;good;6 cylinders;gas;21115;automatic;SUV;black
+7304888907;birmingham;19900;2018;kia;sportage;good;4 cylinders;gas;35823;automatic;truck;black
+7304888869;birmingham;17900;2013;ram;1500;good;8 cylinders;gas;153943;automatic;SUV;white
+7304888853;birmingham;14900;2015;subaru;xv crosstrek;good;4 cylinders;gas;97061;automatic;truck;orange
+7304888822;birmingham;20900;2013;ford;f-150;good;6 cylinders;gas;152233;automatic;sedan;grey
+7304885189;birmingham;5980;2006;chrysler;300;good;8 cylinders;gas;160566;automatic;SUV;white
+7304884810;birmingham;7400;2007;lexus;rx350;good;6 cylinders;gas;181000;automatic;sedan;white
+7304879531;birmingham;12900;2015;volkswagen;passat;excellent;4 cylinders;diesel;74400;automatic;sedan;white
+7304871964;birmingham;3900;2001;honda;civic;excellent;4 cylinders;gas;144000;automatic;SUV;black
+7304871378;birmingham;7500;2011;kia;soul;excellent;4 cylinders;gas;51000;automatic;hatchback;silver
+7304863686;birmingham;5500;2007;toyota;yaris;excellent;4 cylinders;gas;51000;manual;sedan;blue
+7304863364;birmingham;5980;2008;chevrolet;impala;fair;6 cylinders;;165596;automatic;sedan;black
+7304863260;birmingham;3525;2005;mercedes-benz;c-class;fair;4 cylinders;gas;79101;automatic;sedan;silver
+7304851381;birmingham;13500;2011;audi;q7;good;6 cylinders;gas;145000;automatic;sedan;black
+7304840112;birmingham;6980;2008;mercedes-benz;c-class;like new;6 cylinders;gas;148095;automatic;SUV;black
+7304815758;birmingham;5980;2005;nissan;xterra;like new;6 cylinders;gas;198576;manual;sedan;silver
+7304815618;birmingham;3450;2007;ford;taurus;like new;6 cylinders;gas;164421;automatic;SUV;black
+7304803940;birmingham;20000;2014;jeep;grand cherokee;like new;6 cylinders;gas;167821;automatic;pickup;white
+7304789522;birmingham;7980;2008;nissan;titan;good;8 cylinders;;200850;automatic;coupe;white
+7304783155;birmingham;28590;2017;dodge;challenger r/t shaker;good;6 cylinders;other;65817;other;SUV;green
+7304763306;birmingham;5480;2005;dodge;durango;good;8 cylinders;gas;178667;automatic;sedan;black
+7304750558;birmingham;41990;2019;toyota;4runner limited;good;6 cylinders;gas;32326;other;SUV;black
+7304743807;birmingham;11400;2013;kia;sportage;good;4 cylinders;gas;92986;other;SUV;blue
+7304743503;birmingham;11587;2013;ford;escape;excellent;4 cylinders;gas;215046;other;sedan;black
+7304736829;birmingham;6980;2006;infiniti;g35 sedan;excellent;6 cylinders;gas;144632;automatic;SUV;grey
+7304710477;birmingham;4450;2004;cadillac;srx;fair;6 cylinders;gas;144850;automatic;SUV;white
+7304710296;birmingham;7980;2009;bmw;x5;fair;6 cylinders;gas;123000;manual;SUV;grey
+7304691719;birmingham;36590;2017;chevrolet;tahoe lt sport utility;good;6 cylinders;other;60476;other;sedan;silver
+7304691684;birmingham;18590;2017;toyota;camry le sedan 4d;good;6 cylinders;gas;30223;other;hatchback;silver
+7304691593;birmingham;15990;2018;ford;focus se hatchback 4d;good;6 cylinders;other;14178;other;pickup;white
+7304629453;birmingham;4177;2004;hyundai;sonata;fair;6 cylinders;gas;127131;automatic;bus;black
+7304604496;birmingham;21590;2016;dodge;charger sxt sedan 4d;good;6 cylinders;other;45097;automatic;pickup;silver
+7304572221;birmingham;35990;2016;ford;f-150;fair;6 cylinders;gas;57838;automatic;truck;black
+7304529114;birmingham;5400;2001;ram;1500;like new;8 cylinders;gas;198000;automatic;sedan;silver
+7304500210;birmingham;3999;2006;honda;accord sedan;excellent;4 cylinders;gas;253076;automatic;sedan;silver
+7304470843;birmingham;2999;2007;ford;taurus;excellent;6 cylinders;gas;162029;automatic;pickup;blue
+7304456148;birmingham;35900;2020;ram;1500 big horn;like new;8 cylinders;gas;21028;automatic;sedan;silver
+7304344676;birmingham;31995;2012;ford;f350 super duty;like new;6 cylinders;gas;24692;automatic;sedan;white
+7304301821;birmingham;3450;2002;chrysler;300m;like new;6 cylinders;gas;144934;automatic;pickup;black
+7304249613;birmingham;3399;2006;buick;lacrosse;like new;6 cylinders;gas;160218;automatic;truck;blue
+7304230460;birmingham;49897;2021;toyota;tundra;like new;8 cylinders;gas;15965;other;coupe;white
+7304230291;birmingham;15897;2017;hyundai;veloster;like new;4 cylinders;gas;30844;other;sedan;red
+7304229921;birmingham;24990;2018;bmw;3 series 330i xdrive sedan;good;6 cylinders;gas;34454;automatic;other;black
+7304229871;birmingham;40990;2017;jeep;wrangler unlimited rubicon;good;6 cylinders;other;30092;other;sedan;black
+7304095845;birmingham;24995;2011;chevrolet;silverado 2500hd;good;6 cylinders;diesel;201000;automatic;hatchback;black
+7304082794;birmingham;23590;2018;subaru;crosstrek 2.0i limited;good;6 cylinders;gas;44201;automatic;SUV;blue
+7303965456;birmingham;3650;2008;kia;rio;good;4 cylinders;gas;115124;automatic;convertible;silver
+7303819855;birmingham;6980;2010;nissan;pathfinder;good;6 cylinders;gas;186000;automatic;hatchback;black
+7303800718;birmingham;9995;2011;toyota;prius prius v;good;6 cylinders;;104087;other;pickup;silver
+7303799544;birmingham;27995;2014;ram;1500 sport crew cab lwb 4wd;good;6 cylinders;;86325;automatic;SUV;black
+7303798440;birmingham;29995;2016;jeep;wrangler unlimited sport 4wd;good;6 cylinders;;65203;manual;pickup;black
+7303797325;birmingham;26995;2014;ford;f-150 xl supercrew 6.5-ft. bed 4wd;good;6 cylinders;;119981;automatic;pickup;black
+7303796216;birmingham;26995;2017;ford;f-150 xl supercrew 5.5-ft. bed 4wd;good;6 cylinders;;142288;automatic;pickup;black
+7303795070;birmingham;25995;2014;chevrolet;silverado 1500 work truck 2wt crew cab long box 4w;;6 cylinders;;91852;automatic;pickup;black
+7303793865;birmingham;32995;2018;chevrolet;silverado 1500 ls crew cab long box 4wd;;6 cylinders;;82233;automatic;coupe;black
+7303789204;birmingham;57850;2016;chevrolet;corvette;good;6 cylinders;gas;1281;automatic;coupe;black
+7303779213;birmingham;14590;2012;bmw;1 series 128i coupe 2d;good;6 cylinders;other;80465;other;sedan;black
+7303764426;birmingham;18800;2018;cadillac;xts;good;6 cylinders;gas;94617;automatic;sedan;black
+7303753368;birmingham;23990;2017;lincoln;mkz reserve sedan 4d;good;6 cylinders;gas;28565;other;hatchback;black
+7303734543;birmingham;29990;2018;alfa-romeo;romeo stelvio ti sport;good;6 cylinders;other;26978;other;other;black
+7303734534;birmingham;39990;2020;lincoln;corsair reserve sport;good;6 cylinders;gas;7469;other;SUV;black
+7303734535;birmingham;28990;2018;infiniti;qx60 3.5 sport utility;good;6 cylinders;gas;32458;other;SUV;black
+7303728101;birmingham;25590;2020;buick;encore gx select sport;good;6 cylinders;gas;1113;automatic;sedan;red
+7303728061;birmingham;20590;2018;chrysler;300 limited sedan 4d;good;6 cylinders;gas;71021;other;truck;black
+7303715185;birmingham;35897;2016;gmc;sierra 1500;excellent;8 cylinders;gas;81139;other;SUV;white
+7303714633;birmingham;11897;2014;ford;explorer;excellent;6 cylinders;gas;139281;other;truck;red
+7303700272;birmingham;5750;2014;jeep;patriot sport;excellent;6 cylinders;gas;105062;automatic;truck;black
+7303642038;birmingham;36495;2017;rover;discovery sport;excellent;4 cylinders;gas;88;automatic;van;white
+7303640391;birmingham;20300;2017;ford;transit 150;excellent;6 cylinders;gas;141625;automatic;van;white
+7303640392;birmingham;29600;2019;gmc;savana;like new;8 cylinders;gas;30052;automatic;van;white
+7303640395;birmingham;9500;2014;ford;transit connect;excellent;4 cylinders;gas;219581;automatic;van;white
+7303640373;birmingham;36700;2019;ford;transit 250;excellent;6 cylinders;gas;14985;automatic;truck;white
+7303640381;birmingham;37900;2020;chevrolet;silverado 1500;like new;8 cylinders;gas;5622;automatic;van;white
+7303640383;birmingham;32800;2018;ford;transit;excellent;6 cylinders;gas;43479;automatic;van;white
+7303640386;birmingham;31900;2019;ford;transit 250;excellent;6 cylinders;gas;29497;automatic;van;white
+7303640387;birmingham;38300;2020;ford;transit;like new;6 cylinders;gas;7540;automatic;van;white
+7303640365;birmingham;34800;2019;ford;transit;excellent;6 cylinders;gas;31020;automatic;truck;white
+7303593075;birmingham;9277;2005;lexus;ls 430;fair;6 cylinders;gas;130586;automatic;SUV;black
+7303575265;birmingham;3200;1997;honda;crv ex awd;good;4 cylinders;gas;155000;automatic;sedan;black
+7303564841;birmingham;10990;2013;nissan;sentra s sedan 4d;good;6 cylinders;gas;81557;other;sedan;red
+7303463961;birmingham;37995;2016;ford;f-250;fair;6 cylinders;diesel;130000;automatic;coupe;black
+7303450166;birmingham;7200;1993;pontiac;firebird trans am;good;8 cylinders;gas;111000;automatic;coupe;green
+7303447527;birmingham;17900;2011;chevrolet;camaro ss;good;8 cylinders;gas;133847;manual;sedan;white
+7303445129;birmingham;4499;2010;ford;crown victoria;fair;8 cylinders;gas;138895;automatic;SUV;white
+7303437430;birmingham;15900;2011;jeep;wrangler;excellent;6 cylinders;gas;165000;automatic;sedan;black
+7303394572;birmingham;12000;2008;toyota;4runner;good;6 cylinders;gas;196000;automatic;sedan;black
+7303339460;birmingham;7450;2004;toyota;4runner sr5;like new;6 cylinders;gas;218000;automatic;pickup;grey
+7303321930;birmingham;32990;2018;ford;f150 super cab xlt pickup;good;8 cylinders;gas;20558;other;sedan;black
+7303286056;birmingham;199;2017;dodge;charger;fair;6 cylinders;gas;21737;automatic;SUV;black
+7303281092;birmingham;26990;2018;gmc;acadia sle-2 sport utility;good;6 cylinders;gas;26514;other;bus;black
+7303262404;birmingham;33990;2018;ford;f150 super cab lariat;good;6 cylinders;other;26732;other;SUV;black
+7303190384;birmingham;51990;2020;gmc;yukon slt sport utility 4d;good;8 cylinders;other;33829;other;sedan;black
+7303189963;birmingham;9989;2015;hyundai;elantra;like new;4 cylinders;gas;122666;other;truck;silver
+7303187070;birmingham;9950;2010;ford;e250;excellent;8 cylinders;gas;177000;automatic;SUV;white
+7303178934;birmingham;12900;2011;lincoln;mkx;like new;6 cylinders;gas;77101;automatic;SUV;black
+7303174541;birmingham;16900;2015;nissan;pathfinder sv;like new;6 cylinders;gas;78808;automatic;truck;red
+7303172572;birmingham;24500;2006;ford;f550;excellent;8 cylinders;diesel;147000;automatic;truck;white
+7303163934;birmingham;49990;2020;gmc;yukon slt sport utility 4d;good;8 cylinders;other;31166;other;truck;blue
+7303124187;birmingham;47990;2020;gmc;yukon slt sport utility 4d;good;8 cylinders;gas;29827;other;SUV;black
+7303117560;birmingham;20495;2015;lexus;es 300h;like new;4 cylinders;hybrid;61063;automatic;truck;blue
